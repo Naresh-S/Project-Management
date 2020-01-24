@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UIElement AutomationId="AID_LoginControl" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl">
+  <UIElement AutomationId="" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+  <UIElement AutomationId="AID_UsernameLabel" ControlType="ControlType.Text" IsEnabled="true" Name="Username:" ClassName="Text">
+    <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Username:" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_PasswordLabel" ControlType="ControlType.Text" IsEnabled="true" Name="Password:" ClassName="Text">
+    <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Password:" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_UsernameTextBox" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="TouchTextBox">
+    <UIElement AutomationId="AID_TouchTexBoxViewInputTextBox" ControlType="ControlType.Edit" IsEnabled="true" Name="" ClassName="TextBox">
+      <UIElement AutomationId="VerticalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+      <UIElement AutomationId="HorizontalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+    </UIElement>
+  </UIElement>
+  <UIElement AutomationId="AID_PasswordTextBox" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="TouchPasswordBox">
+    <UIElement AutomationId="AID_TouchPasswordBoxViewPasswordTextBox" ControlType="ControlType.Edit" IsEnabled="true" Name="" ClassName="TextBox">
+      <UIElement AutomationId="VerticalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+      <UIElement AutomationId="HorizontalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+    </UIElement>
+  </UIElement>
+  <UIElement AutomationId="AID_LoginButton" ControlType="ControlType.Button" IsEnabled="true" Name="Login" ClassName="Button">
+    <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Login" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_SystemOffButton" ControlType="ControlType.Button" IsEnabled="true" Name="System Off" ClassName="Button" />
+  <UIElement AutomationId="loginStatusMsg" ControlType="ControlType.Text" IsEnabled="true" Name="" ClassName="Text" />
+  <UIElement AutomationId="AID_VersionTextBox" ControlType="ControlType.Text" IsEnabled="true" Name="2.2.0" ClassName="TextBlock" />
+  <UIElement AutomationId="AID_ApiEndpointTextBox" ControlType="ControlType.Text" IsEnabled="true" Name="https://api.qa.synthesize.com" ClassName="TextBlock" />
+  <UIElement AutomationId="AID_PoweredBy" ControlType="ControlType.Text" IsEnabled="true" Name="POWERED BY" ClassName="TextBlock" />
+  <UIElement AutomationId="AID_BtmSynthesisText" ControlType="ControlType.Text" IsEnabled="true" Name="SYNTHESIS" ClassName="TextBlock" />
+</UIElement>

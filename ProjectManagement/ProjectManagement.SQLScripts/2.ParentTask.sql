@@ -1,0 +1,28 @@
+USE [ProjectManagement]
+GO
+
+/****** Object:  Table [dbo].[ParentTask]    Script Date: 03/07/2019 12:03:21 AM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+SET ANSI_PADDING ON
+GO
+
+CREATE TABLE [dbo].[ParentTask](
+	[Parent_ID] [int] IDENTITY(1,1) NOT NULL,
+	[Parent_Task] [varchar](max) NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[Parent_ID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+
+GO
+
+SET ANSI_PADDING OFF
+GO
+
+

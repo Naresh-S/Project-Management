@@ -1,0 +1,32 @@
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.DAL\bin\Debug\ProjectManagement.DAL.dll.config
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.DAL\bin\Debug\ProjectManagement.DAL.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.DAL\bin\Debug\ProjectManagement.DAL.pdb
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.DAL\bin\Debug\EntityFramework.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.DAL\bin\Debug\EntityFramework.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.DAL\obj\Debug\ProjectManagement.DAL.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.DAL\obj\Debug\ProjectManagement.DAL.pdb
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.DAL\obj\Debug\ProjectManagement.DAL.csprojResolveAssemblyReference.cache
+C:\ProjectManagement\ProjectManagement.DAL\bin\Debug\ProjectManagement.DAL.dll.config
+C:\ProjectManagement\ProjectManagement.DAL\bin\Debug\ProjectManagement.DAL.dll
+C:\ProjectManagement\ProjectManagement.DAL\bin\Debug\ProjectManagement.DAL.pdb
+C:\ProjectManagement\ProjectManagement.DAL\bin\Debug\EntityFramework.dll
+C:\ProjectManagement\ProjectManagement.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\ProjectManagement\ProjectManagement.DAL\bin\Debug\EntityFramework.xml
+C:\ProjectManagement\ProjectManagement.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\ProjectManagement\ProjectManagement.DAL\obj\Debug\ProjectManagement.DAL.csprojResolveAssemblyReference.cache
+C:\ProjectManagement\ProjectManagement.DAL\obj\Debug\ProjectManagement.DAL.dll
+C:\ProjectManagement\ProjectManagement.DAL\obj\Debug\ProjectManagement.DAL.pdb
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.DAL\bin\Debug\ProjectManagement.DAL.dll.config
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.DAL\bin\Debug\ProjectManagement.DAL.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.DAL\bin\Debug\ProjectManagement.DAL.pdb
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.DAL\obj\Debug\ProjectManagement.DAL.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.DAL\obj\Debug\ProjectManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.DAL\obj\Debug\ProjectManagement.DAL.csproj.CopyComplete
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.DAL\obj\Debug\ProjectManagement.DAL.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.DAL\obj\Debug\ProjectManagement.DAL.pdb

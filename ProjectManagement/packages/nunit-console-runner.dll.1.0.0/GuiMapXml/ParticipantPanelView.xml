@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UIElement AutomationId="AID_ParticipantsPanelView" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="ParticipantsPanel">
+  <UIElement AutomationId="AID_ParticipantsPanelViewDockBtn" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="HexButton">
+    <UIElement AutomationId="rollover" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_HexButtonViewHexImage" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+  </UIElement>
+  <UIElement AutomationId="AID_ParticipantsPanelViewActiveUsersBtn" ControlType="ControlType.Button" IsEnabled="true" Name="Participants" ClassName="Button">
+    <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Participants" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_ParticipantsPanelViewManageUsersBtn" ControlType="ControlType.Button" IsEnabled="true" Name="Manage Users" ClassName="Button">
+    <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Manage Users" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_ParticipantsPanelViewParticipantFullName" ControlType="ControlType.Text" IsEnabled="true" Name="Varun Tiwari" ClassName="TextBlock" />
+  <UIElement AutomationId="AID_ParticipantsPanelViewParticipantLocation" ControlType="ControlType.Text" IsEnabled="true" Name="Location: UI automation tests" ClassName="TextBlock" />
+  <UIElement AutomationId="AID_ParticipantsPanelViewParticipantWorkspace" ControlType="ControlType.Text" IsEnabled="true" Name="Workspace: Default" ClassName="TextBlock" />
+  <UIElement AutomationId="AID_ParticipantsPanelViewFollowMeToggleBtn" ControlType="ControlType.Button" IsEnabled="false" Name="" ClassName="Button" />
+  <UIElement AutomationId="AID_ParticipantsPanelViewFollowMeLabel" ControlType="ControlType.Text" IsEnabled="true" Name="Follow Me" ClassName="TextBlock" />
+  <UIElement AutomationId="AID_ParticipantsPanelViewFollowPresenterToggleBtn" ControlType="ControlType.Button" IsEnabled="false" Name="Follow  " ClassName="Button" />
+  <UIElement AutomationId="AID_ParticipantsPanelViewSmallestParticipantLabel" ControlType="ControlType.Text" IsEnabled="true" Name="Smallest View Among Participants" ClassName="TextBlock" />
+  <UIElement AutomationId="AID_ParticipantsPanelViewShowBtn" ControlType="ControlType.Button" IsEnabled="true" Name="Show" ClassName="Button" />
+  <UIElement AutomationId="" ControlType="ControlType.Button" IsEnabled="true" Name="Hide" ClassName="Button" />
+  <UIElement AutomationId="AID_ParticipantsPanelViewAutoBtn" ControlType="ControlType.Button" IsEnabled="true" Name="Auto" ClassName="Button" />
+  <UIElement AutomationId="" ControlType="ControlType.Pane" IsEnabled="true" Name="" ClassName="ScrollViewer">
+    <UIElement AutomationId="AID_ParticipantsPanelViewCurrentWsToggle" ControlType="ControlType.Button" IsEnabled="true" Name="Current Workspace (0)" ClassName="Button">
+      <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Current Workspace (0)" ClassName="TextBlock" />
+    </UIElement>
+    <UIElement AutomationId="AID_ParticipantsPanelViewLabelNone" ControlType="ControlType.Text" IsEnabled="true" Name="None" ClassName="TextBlock" />
+    <UIElement AutomationId="AID_ParticipantsPanelViewOtherWsToggle" ControlType="ControlType.Button" IsEnabled="true" Name="Other Workspaces (0)" ClassName="Button">
+      <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Other Workspaces (0)" ClassName="TextBlock" />
+    </UIElement>
+    <UIElement AutomationId="AID_ParticipantsPanelViewPariticipantPanelLabelNone" ControlType="ControlType.Text" IsEnabled="true" Name="None" ClassName="TextBlock" />
+    <UIElement AutomationId="VerticalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar">
+      <UIElement AutomationId="LineUp" ControlType="ControlType.Button" IsEnabled="false" Name="" ClassName="RepeatButton" />
+      <UIElement AutomationId="LineDown" ControlType="ControlType.Button" IsEnabled="false" Name="" ClassName="RepeatButton" />
+      <UIElement AutomationId="" ControlType="ControlType.Thumb" IsEnabled="false" Name="" ClassName="Thumb" />
+    </UIElement>
+  </UIElement>
+  <UIElement AutomationId="AID_ParticipantsPanelViewProgressBar" ControlType="ControlType.ProgressBar" IsEnabled="true" Name="" ClassName="ProgressBar" />
+  <UIElement AutomationId="AID_ParticipantsPanelViewParticipantFullName" ControlType="ControlType.Text" IsEnabled="true" Name="Varun Tiwari" ClassName="TextBlock" />
+  <UIElement AutomationId="AID_ParticipantsPanelViewParticipantLocation" ControlType="ControlType.Text" IsEnabled="true" Name="Location: UI automation tests" ClassName="TextBlock" />
+  <UIElement AutomationId="AID_ParticipantsPanelViewParticipantWorkspace" ControlType="ControlType.Text" IsEnabled="true" Name="Workspace: Default" ClassName="TextBlock" />
+  <UIElement AutomationId="AID_ParticipantsPanelViewCurrentUserInPrjctToggleBtn" ControlType="ControlType.Button" IsEnabled="true" Name="Users with Access (0)" ClassName="Button">
+    <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Users with Access (0)" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_ParticipantsPanelViewUserInPrjctAnimCtrl" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl">
+    <UIElement AutomationId="" ControlType="ControlType.Pane" IsEnabled="true" Name="" ClassName="ScrollViewer">
+      <UIElement AutomationId="VerticalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+    </UIElement>
+  </UIElement>
+  <UIElement AutomationId="AID_ParticipantsPanelViewSearchUserInAcntToggle" ControlType="ControlType.Button" IsEnabled="true" Name="Find a User" ClassName="Button">
+    <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Find a User" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_ParticipantsPanelViewUsernotInPrjAnimCtrl" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl">
+    <UIElement AutomationId="" ControlType="ControlType.Pane" IsEnabled="true" Name="" ClassName="ScrollViewer">
+      <UIElement AutomationId="ItemAnimatableControl" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl">
+        <UIElement AutomationId="AID_ParticipantsPanelViewAddFullName" ControlType="ControlType.Text" IsEnabled="true" Name="Alan Kelch" ClassName="TextBlock" />
+        <UIElement AutomationId="AID_ParticipantsPanelViewAddEmail" ControlType="ControlType.Text" IsEnabled="true" Name="akelch@prysm.com" ClassName="TextBlock" />
+        <UIElement AutomationId="AID_ImageButtonView" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="ImageButton">
+          <UIElement AutomationId="" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+          <UIElement AutomationId="AID_ImageButtonViewImage" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+        </UIElement>
+      </UIElement>
+      <UIElement AutomationId="ItemAnimatableControl" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl">
+        <UIElement AutomationId="AID_ParticipantsPanelViewAddFullName" ControlType="ControlType.Text" IsEnabled="true" Name="Ashton Clark" ClassName="TextBlock" />
+        <UIElement AutomationId="AID_ParticipantsPanelViewAddEmail" ControlType="ControlType.Text" IsEnabled="true" Name="aclark@prysm.com" ClassName="TextBlock" />
+        <UIElement AutomationId="AID_ImageButtonView" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="ImageButton">
+          <UIElement AutomationId="" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+          <UIElement AutomationId="AID_ImageButtonViewImage" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+        </UIElement>
+      </UIElement>
+      <UIElement AutomationId="ItemAnimatableControl" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl">
+        <UIElement AutomationId="AID_ParticipantsPanelViewAddFullName" ControlType="ControlType.Text" IsEnabled="true" Name="B Brooks" ClassName="TextBlock" />
+        <UIElement AutomationId="AID_ParticipantsPanelViewAddEmail" ControlType="ControlType.Text" IsEnabled="true" Name="bbrooks@dev.anacore.com" ClassName="TextBlock" />
+        <UIElement AutomationId="AID_ImageButtonView" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="ImageButton">
+          <UIElement AutomationId="" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+          <UIElement AutomationId="AID_ImageButtonViewImage" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+        </UIElement>
+      </UIElement>
+      <UIElement AutomationId="ItemAnimatableControl" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl">
+        <UIElement AutomationId="AID_ParticipantsPanelViewAddFullName" ControlType="ControlType.Text" IsEnabled="true" Name="Billy Brooks" ClassName="TextBlock" />
+        <UIElement AutomationId="AID_ParticipantsPanelViewAddEmail" ControlType="ControlType.Text" IsEnabled="true" Name="bbrooks@prysm.com" ClassName="TextBlock" />
+        <UIElement AutomationId="AID_ImageButtonView" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="ImageButton">
+          <UIElement AutomationId="" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+          <UIElement AutomationId="AID_ImageButtonViewImage" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+        </UIElement>
+      </UIElement>
+      <UIElement AutomationId="ItemAnimatableControl" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl">
+        <UIElement AutomationId="AID_ParticipantsPanelViewAddFullName" ControlType="ControlType.Text" IsEnabled="true" Name="Chandra Somalingam" ClassName="TextBlock" />
+        <UIElement AutomationId="AID_ParticipantsPanelViewAddEmail" ControlType="ControlType.Text" IsEnabled="true" Name="schandra@prysm.com" ClassName="TextBlock" />
+        <UIElement AutomationId="AID_ImageButtonView" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="ImageButton">
+          <UIElement AutomationId="" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+          <UIElement AutomationId="AID_ImageButtonViewImage" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+        </UIElement>
+      </UIElement>
+      <UIElement AutomationId="ItemAnimatableControl" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl">
+        <UIElement AutomationId="AID_ParticipantsPanelViewAddFullName" ControlType="ControlType.Text" IsEnabled="true" Name="Chris Poore" ClassName="TextBlock" />
+        <UIElement AutomationId="AID_ParticipantsPanelViewAddEmail" ControlType="ControlType.Text" IsEnabled="true" Name="cpoore@prysm.com" ClassName="TextBlock" />
+        <UIElement AutomationId="AID_ImageButtonView" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="ImageButton">
+          <UIElement AutomationId="" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+          <UIElement AutomationId="AID_ImageButtonViewImage" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+        </UIElement>
+      </UIElement>
+      <UIElement AutomationId="ItemAnimatableControl" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl">
+        <UIElement AutomationId="AID_ParticipantsPanelViewAddFullName" ControlType="ControlType.Text" IsEnabled="true" Name="Connor Claflin" ClassName="TextBlock" />
+        <UIElement AutomationId="AID_ParticipantsPanelViewAddEmail" ControlType="ControlType.Text" IsEnabled="true" Name="cclaflin@prysm.com" ClassName="TextBlock" />
+        <UIElement AutomationId="AID_ImageButtonView" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="ImageButton">
+          <UIElement AutomationId="" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+          <UIElement AutomationId="AID_ImageButtonViewImage" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+        </UIElement>
+      </UIElement>
+      <UIElement AutomationId="ItemAnimatableControl" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl">
+        <UIElement AutomationId="AID_ParticipantsPanelViewAddFullName" ControlType="ControlType.Text" IsEnabled="true" Name="David Rickey" ClassName="TextBlock" />
+        <UIElement AutomationId="AID_ParticipantsPanelViewAddEmail" ControlType="ControlType.Text" IsEnabled="true" Name="drickey@prysm.com" ClassName="TextBlock" />
+        <UIElement AutomationId="AID_ImageButtonView" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="ImageButton">
+          <UIElement AutomationId="" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+          <UIElement AutomationId="AID_ImageButtonViewImage" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+        </UIElement>
+      </UIElement>
+      <UIElement AutomationId="ItemAnimatableControl" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl">
+        <UIElement AutomationId="AID_ParticipantsPanelViewAddFullName" ControlType="ControlType.Text" IsEnabled="true" Name="David McDowell" ClassName="TextBlock" />
+        <UIElement AutomationId="AID_ParticipantsPanelViewAddEmail" ControlType="ControlType.Text" IsEnabled="true" Name="dmcdowell@prysm.com" ClassName="TextBlock" />
+        <UIElement AutomationId="AID_ImageButtonView" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="ImageButton">
+          <UIElement AutomationId="" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+          <UIElement AutomationId="AID_ImageButtonViewImage" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+        </UIElement>
+      </UIElement>
+      <UIElement AutomationId="ItemAnimatableControl" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl">
+        <UIElement AutomationId="AID_ParticipantsPanelViewAddFullName" ControlType="ControlType.Text" IsEnabled="true" Name="Jessica Rose" ClassName="TextBlock" />
+        <UIElement AutomationId="AID_ParticipantsPanelViewAddEmail" ControlType="ControlType.Text" IsEnabled="true" Name="jrose@prysm.com" ClassName="TextBlock" />
+        <UIElement AutomationId="AID_ImageButtonView" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="ImageButton">
+          <UIElement AutomationId="" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+          <UIElement AutomationId="AID_ImageButtonViewImage" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+        </UIElement>
+      </UIElement>
+      <UIElement AutomationId="VerticalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="true" Name="" ClassName="ScrollBar">
+        <UIElement AutomationId="LineUp" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="RepeatButton" />
+        <UIElement AutomationId="LineDown" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="RepeatButton" />
+        <UIElement AutomationId="" ControlType="ControlType.Thumb" IsEnabled="true" Name="" ClassName="Thumb" />
+      </UIElement>
+    </UIElement>
+  </UIElement>
+  <UIElement AutomationId="AID_ParticipantsPanelViewSearchBtn" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="TextButton">
+    <UIElement AutomationId="" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_TextButtonViewText" ControlType="ControlType.Text" IsEnabled="true" Name="" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_ParticipantsPanelViewSearchBtnImg" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+  <UIElement AutomationId="AID_ParticipantsPanelViewSearTextBox" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="TouchTextBox">
+    <UIElement AutomationId="AID_TouchTexBoxViewInputTextBox" ControlType="ControlType.Edit" IsEnabled="true" Name="" ClassName="TextBox">
+      <UIElement AutomationId="VerticalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+      <UIElement AutomationId="HorizontalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+    </UIElement>
+  </UIElement>
+  <UIElement AutomationId="AID_ParticipantsPanelViewSearchCloseImg" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+</UIElement>

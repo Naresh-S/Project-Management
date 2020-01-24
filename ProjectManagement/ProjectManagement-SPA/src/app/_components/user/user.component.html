@@ -1,0 +1,114 @@
+<div>
+  <form #userForm="ngForm" (ngSubmit)="submit(userForm)" name="ngform">
+    <div class="col-md-12">
+      <div class="panel panel-primary">
+        <div class="panel-heading">Add User</div>
+        <div class="panel-body">
+          <div class="form-group" [class.has-error]="firstName.touched && firstName.invalid">
+            <div class="row">
+              <div class="col-sm-3">
+                <label for="firstName" class="control-label">First Name</label>
+              </div>
+              <div class="col-sm-8">
+                <input type="text" class="form-control" id="FirstName" placeholder="Enter First Name" name="FirstName" [(ngModel)]="userData.FirstName"
+                  required #firstName="ngModel" maxlength="50">
+                  <div *ngIf="firstName.touched && firstName.invalid">
+                    <span class="error" *ngIf="firstName.errors?.required">First Name is required</span>
+                    <span class="error" *ngIf="firstName.errors?.minlength">Minimum length is
+                {{firstName.errors.minlength.requiredLength}}</span>
+                  </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="form-group" [class.has-error]="lastName.touched && lastName.invalid">
+            <div class="row ">
+              <div class="col-sm-3 ">
+                <label for="txtLastName">Last Name:</label>
+              </div>
+              <div class="col-sm-8 ">
+                <input id="LastName" type="text" class="form-control" placeholder="Enter Last Name" name="LastName" [(ngModel)]="userData.LastName"
+                  required #lastName="ngModel" maxlength="50">
+
+                  <div *ngIf="lastName.touched && lastName.invalid">
+                    <span class="error" *ngIf="lastName.errors?.required">Last Name is required</span>
+                    <span class="error" *ngIf="lastName.errors?.minlength">Minimum length is
+                {{lastName.errors.minlength.requiredLength}}</span>
+                  </div>
+              </div>
+            </div>
+          </div>
+          <div class="form-group" [class.has-error]="EmployeeId.touched && EmployeeId.invalid">
+            <div class="row ">
+              <div class="col-sm-3 ">
+                <label for="txtEmployeeid">Employee ID:</label>
+              </div>
+              <div class="col-sm-8 ">
+                <input id="Employee_ID" type="number" min="1" placeholder="Enter Employee ID" class="form-control" name="Employee_ID" [(ngModel)]="userData.Employee_ID"
+                  required #EmployeeId="ngModel" required>
+
+                  <div *ngIf="EmployeeId.touched && EmployeeId.invalid">
+                    <span class="error" *ngIf="EmployeeId.errors?.required">Employee ID is required</span>
+                  </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="panel-footer">
+          <div class="pull-right">
+            <button class="btn btn-md btn-primary" style="width:80px;" [disabled]="userForm.invalid">Submit</button> &nbsp;
+            <button type="reset" class="btn btn-success" style="width:80px;">Reset</button>
+          </div>
+          <div class="clearfix"></div>
+        </div>
+      </div>
+    </div>
+  </form>
+  <div style="margin-left: 20px;">
+    <div>
+      <div class="row">
+        <div class="col-sm-5">
+            <input id="Search" type="text" placeholder="Enter text to search" class="form-control" name="Search" [(ngModel)]="UserSearch"
+            required #Search="ngModel"></div>
+        <div class="col-sm-7" style="padding-left: 65px;">
+          <label for="lblSort">Sort By: </label>&nbsp;
+          <button name="FirstName" class="btn btn-primary btn-md" style="width:80px;" id="FirstName" (click)="sort('FirstName')">FirstName
+            </button>&nbsp;
+          <button name="LastName" class="btn btn-primary btn-md" style="width:80px;" id="LastName" (click)="sort('LastName')">LastName
+            </button>&nbsp; 
+          <button name="Id" class="btn btn-primary btn-md" style="width:80px;" id="Id" (click)="sort('Id')">Emp ID
+            </button>&nbsp;&nbsp;&nbsp;&nbsp;
+        </div>
+      </div>
+      <div class="row" *ngFor="let usr of users |filter: UserSearch">
+        <div class="col-sm-8">
+          <ul class="list-group">
+            <li class="list-group-item list-group-item-info" style="background-color:lightgrey;">{{usr.FirstName}}</li>
+            <li class="list-group-item list-group-item-info" style="background-color:lightgrey;">{{usr.LastName}}</li>
+            <li class="list-group-item list-group-item-info" style="background-color:lightgrey;">{{usr.Employee_ID}}</li>
+          </ul>
+        </div>
+        <div class="col-sm-4" >
+          <div class="row pu">
+          <div class="col-sm-2">
+            <button class="btn btn-primary btn-md" (click)="edit(usr.User_ID)" name="Edit" id="Edit" style="width:80px;">  Edit
+            </button></div>
+          </div>
+          <div class="row">
+          <div class="col-sm-2">
+            <button class="btn btn-primary btn-md" (click)="delete(usr.User_ID)" name="Delete" id="Delete" style="width:80px;">  Delete
+            </button>
+          </div>
+          </div>
+          <div class="col-sm-2">
+          </div>
+        </div>
+      </div>
+
+
+
+
+
+    </div>
+
+  </div>

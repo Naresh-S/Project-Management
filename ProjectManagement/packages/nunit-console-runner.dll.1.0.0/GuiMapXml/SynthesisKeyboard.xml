@@ -1,0 +1,328 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UIElement AutomationId="AID_KeyboardEngUsView" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="KeyboardEngUs">
+  <UIElement AutomationId="AID_KeyboardEngUsViewRemoveHexBtn" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="HexButton">
+    <UIElement AutomationId="rollover" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_HexButtonViewHexImage" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKeyAccent'" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="`" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKey1" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="1" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKey2" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="2" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKey3" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="3" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKey4" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="4" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKey5" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="5" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKey6" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="6" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKey7" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="7" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKey8" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="8" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKey9" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="9" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKey0" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="0" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKeyDash-" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="-" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKeyEquals=" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="=" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKeyBack" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="Back" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKeyCut" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="Cut" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewTabKey" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="Tab" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKeyQ" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="q" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKeyW" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="w" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKeyE" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="e" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKeyR" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="r" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKeyT" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="t" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKeyY" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="y" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKeyU" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="u" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKeyI" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="i" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsView=KeyO" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="o" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsView=KeyP" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="p" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKey[" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="[" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKey]" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="]" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKey\" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="\" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKeyDel" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="Del" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKeyCopy" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="Copy" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKeyCapsLock" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="Caps Lock" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKeyA" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="a" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKeyS" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="s" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKeyD" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="d" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKeyF" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="f" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKeyG" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="g" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKeyH" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="h" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKeyJ" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="j" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKeyK" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="k" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKeyL" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="l" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKey;" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name=";" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKeyApostorophe'" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="'" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKeyEnter" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="Enter" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKeyPaste" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="Paste" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKeyLeftShift" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="Shift" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKeyZ" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="z" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKeyX" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="x" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKeyC" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="c" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKeyV" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="v" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKeyB" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="b" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKeyN" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="n" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKeyM" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="m" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKeyComma," ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="," ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKeyPeriod." ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="." ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKeyFwdSlash/" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="/" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKeyUp" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="↑" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKeyRightShift" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="Shift" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKeyLeftCtrl" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="Ctrl" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKeyLeftAlt" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey" />
+  <UIElement AutomationId="AID_KeyboardEngUsViewKeySpace" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="Space" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKeyLeftKey" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="←" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKeyDown" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="↓" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKeyRight" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="→" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_KeyboardEngUsViewKeyRightCtrl" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="VirtualKey">
+    <UIElement AutomationId="AID_VirtualKeyViewEffectLayer" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_VirtualKeyViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+    <UIElement AutomationId="AID_VirtualKeyViewTextBlock" ControlType="ControlType.Text" IsEnabled="true" Name="Ctrl" ClassName="TextBlock" />
+  </UIElement>
+</UIElement>

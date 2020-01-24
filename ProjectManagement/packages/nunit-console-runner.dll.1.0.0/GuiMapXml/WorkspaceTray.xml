@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UIElement AutomationId="AID_StageViewWorkspaceTray" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl">
+  <UIElement AutomationId="AID_StageViewWorkspaceBtn" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="ImageButton">
+    <UIElement AutomationId="" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_ImageButtonViewImage" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+  </UIElement>
+  <UIElement AutomationId="AID_WorkspaceListView" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="WorkspaceList">
+    <UIElement AutomationId="AID_WorkspaceListViewScrollViewer" ControlType="ControlType.Pane" IsEnabled="true" Name="" ClassName="ScrollViewer">
+      <UIElement AutomationId="AID_AddWorkspaceListItemView" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AddWorkspaceListItem">
+        <UIElement AutomationId="AID_AddWorkspaceListItemViewImage" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+        <UIElement AutomationId="AID_AddWorkspaceListItemViewWorkspaceText" ControlType="ControlType.Text" IsEnabled="true" Name="Add Workspace" ClassName="TextBlock" />
+        <UIElement AutomationId="AID_AddWorkspaceListItemViewAddWorkspaceButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+      </UIElement>
+      <UIElement AutomationId="AID_WorkspaceListItemView" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="WorkspaceListItem">
+        <UIElement AutomationId="AID_WorkspaceListItemViewWorkspaceImg" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+        <UIElement AutomationId="btn" ControlType="ControlType.Button" IsEnabled="false" Name="" ClassName="Button" />
+        <UIElement AutomationId="AID_WorkspaceListItemViewWorkspaceNameText" ControlType="ControlType.Text" IsEnabled="true" Name="Default" ClassName="TextBlock" />
+        <UIElement AutomationId="AID_WorkspaceListItemViewMiniMap" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+        <UIElement AutomationId="AID_WorkspaceListItemViewSettingsImg" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+        <UIElement AutomationId="AID_WorkspaceListItemViewSettingsBtn" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+      </UIElement>
+      <UIElement AutomationId="HorizontalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar">
+        <UIElement AutomationId="LineUp" ControlType="ControlType.Button" IsEnabled="false" Name="" ClassName="RepeatButton" />
+        <UIElement AutomationId="LineDown" ControlType="ControlType.Button" IsEnabled="false" Name="" ClassName="RepeatButton" />
+        <UIElement AutomationId="" ControlType="ControlType.Thumb" IsEnabled="false" Name="" ClassName="Thumb" />
+      </UIElement>
+    </UIElement>
+  </UIElement>
+</UIElement>

@@ -1,0 +1,92 @@
+<project name="ProjectManagement" basedir="." default="DeployApplication" xmlns="http://nant.sf.net/schemas/nant.xsd">
+	<description>Project Management Automated Deployment script.</description>
+	<!--
+    Pre Requisites: It requires files
+        1. Package folder
+        
+    Deployment script is included the following tasks
+        1. Modifies the configuration in package folder
+        2. Copies all package files to destination folder
+	-->
+
+	<property name="build.dir" value="${project::get-base-directory()}" />
+	<property name="pkg.dir" value="${path::combine(build.dir,'package')}" />
+	<property name="config.dir" value="${project::get-base-directory()}\config" />
+	<property name="pkg.templates.msg.mgr.dir" value="${path::combine(pkg.dir,'Templates')}" />
+
+	<target name="DeployApplication" description="Deploying to Application">		
+		<echo message="================================================" />
+		<echo message="Deploying Project Management API" />
+		<echo message="================================================" />		
+		
+		<property name="app.config" value="${config.dir}\project.management.api.config" />
+		<property name="package.dir" value="${pkg.dir}\ProjectManagement" />	
+		
+		<property name="target.server.name" value="C:\Nagaraja\ProjectManagement\Deployed\ProjectManagement\API" />
+		<call target="DeployApp" />					
+
+		<echo message="================================================" />
+		<echo message="Deploying Project Management SPA" />
+		<echo message="================================================" />			
+		<property name="package.dir" value="${build.dir}\package\ProjectManagement.SPA" />
+		
+		<property name="target.server.name" value="C:\Nagaraja\ProjectManagement\Deployed\ProjectManagement\SPA" />
+		<call target="DeployApp" />						
+	</target>	
+
+	<target name="DeployApp" description="Starting Deployment">
+		<property name="target.dir" value="${target.server.name}" />
+		
+		<echo message="Cleaning up target directory" />
+		<call target="CleanupTargetDir" failonerror="true" />
+		
+		<echo message="Building Config files" />		
+		<call target="BuildConfig" failonerror="true" />
+
+		<echo message="Copying Package to target folder: ${target.dir}" />
+		<copy todir="${target.dir}" overwrite="true">
+			<fileset basedir="${package.dir}">
+				<include name="**/**" />
+			</fileset>
+		</copy>
+	</target>
+	
+	<target name="BuildConfig" description='Modify config files' if='${file::exists(app.config)}'>
+		<echo message="Modifying configuration files using config settings file: ${app.config}" />
+
+		<property name="config.filename" value="" />
+		<property name="key" value="" />
+		<property name="keyvalue" value="" />
+
+		<foreach item="Line" in="${app.config}" property="curLine">
+			<if test="${curLine!=''}">
+				<echo message="${curLine}" />
+				<regex pattern="^(?'key'.*)#@#(?'keyvalue'.*)$" input="${curLine}" failonerror="true" />
+				<if test="${key=='filename'}">
+					<property name="config.filename" value="${package.dir}\${keyvalue}" />
+					<echo message="ConfigFileName: ${config.filename}" />
+				</if>
+				<if test="${key!='' and key!='filename'}">
+					<if test="${file::exists(config.filename)}">
+						<echo message="ConfigFileName.value: ${key} ===> ${keyvalue}" />
+						<xmlpoke file="${config.filename}" xpath="${key}" value="${keyvalue}" />
+					</if>
+				</if>
+			</if>
+		</foreach>
+	</target>	
+	
+	<target name="CleanupTargetDir" description="Clean up target Directories">
+		<delete>
+			<fileset basedir="${target.dir}">
+				<include name="**/backup/**"/>
+				<include name="**/bin/**"/>
+				<include name="**/obj/**"/>
+				<include name="**/*.bk"/>
+				<include name="**/*.back"/>
+				<include name="**/Global.asax"/>
+				<include name="**/copy *.*"/>				
+			</fileset>
+		</delete>
+	</target>
+</project>

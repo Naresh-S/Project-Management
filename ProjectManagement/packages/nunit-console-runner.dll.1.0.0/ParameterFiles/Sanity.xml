@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<AllTestCases>
+  <TestCase Name="Sanity_M13_S4BLogin">
+    <InputField Name="Address" Value="schandra@prysm.com"/>
+    <InputField Name="Username" Value="schandra@prysm.com"/>
+    <InputField Name="Password" Value="Rightnow.5"/>    
+  </TestCase>
+</AllTestCases>

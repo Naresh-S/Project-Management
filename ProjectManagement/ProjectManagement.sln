@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectManagement", "ProjectManagement\ProjectManagement.csproj", "{7DFD3048-4766-4034-85ED-60668757F9A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectManagement.NUnitTests", "ProjectManagement.Tests\ProjectManagement.NUnitTests.csproj", "{C09BB89F-83D0-4983-B789-B216B35FA0FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectManagement.DAL", "ProjectManagement.DAL\ProjectManagement.DAL.csproj", "{0A1A7914-4F53-47DC-AB5B-D0CE569B0560}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectManagement.Test", "ProjectManagement.Test\ProjectManagement.Test.csproj", "{14EE6158-0B98-4139-B794-21EA173D47F3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ProjectManagement.LoadTest.Jmeter", "ProjectManagement.LoadTest.Jmeter", "{58C674E1-8D6F-4335-B68E-5252FAFCBD3D}"
+	ProjectSection(SolutionItems) = preProject
+		ProjectManagement.LoadTest.Jmeter1\Readme.txt = ProjectManagement.LoadTest.Jmeter1\Readme.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Reports", "Reports", "{4BF6A755-CADE-4492-8A2E-E8C920437154}"
+	ProjectSection(SolutionItems) = preProject
+		ProjectManagement.LoadTest.Jmeter1\Reports\ProjectManagement_Load_Testing_Screenshots.docx = ProjectManagement.LoadTest.Jmeter1\Reports\ProjectManagement_Load_Testing_Screenshots.docx
+		ProjectManagement.LoadTest.Jmeter1\Reports\ProjectManagement_LoadTesting_ResultsTree.csv = ProjectManagement.LoadTest.Jmeter1\Reports\ProjectManagement_LoadTesting_ResultsTree.csv
+		ProjectManagement.LoadTest.Jmeter1\Reports\ProjectManagement_LoadTesting_SummaryReport.csv = ProjectManagement.LoadTest.Jmeter1\Reports\ProjectManagement_LoadTesting_SummaryReport.csv
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Testplan", "Testplan", "{56927DAB-3E74-4364-980F-3F560E85FCD6}"
+	ProjectSection(SolutionItems) = preProject
+		ProjectManagement.LoadTest.Jmeter1\TestPlan\ProjectManagement.LoadTest.Jmeter.jmx = ProjectManagement.LoadTest.Jmeter1\TestPlan\ProjectManagement.LoadTest.Jmeter.jmx
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectManagement.NBench", "ProjectManagement.NBench\ProjectManagement.NBench\ProjectManagement.NBench.csproj", "{8F020620-9F6F-4EA7-A3DF-B0C78CCC6133}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DFD3048-4766-4034-85ED-60668757F9A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DFD3048-4766-4034-85ED-60668757F9A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DFD3048-4766-4034-85ED-60668757F9A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DFD3048-4766-4034-85ED-60668757F9A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C09BB89F-83D0-4983-B789-B216B35FA0FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C09BB89F-83D0-4983-B789-B216B35FA0FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C09BB89F-83D0-4983-B789-B216B35FA0FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C09BB89F-83D0-4983-B789-B216B35FA0FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A1A7914-4F53-47DC-AB5B-D0CE569B0560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A1A7914-4F53-47DC-AB5B-D0CE569B0560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A1A7914-4F53-47DC-AB5B-D0CE569B0560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A1A7914-4F53-47DC-AB5B-D0CE569B0560}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14EE6158-0B98-4139-B794-21EA173D47F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14EE6158-0B98-4139-B794-21EA173D47F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14EE6158-0B98-4139-B794-21EA173D47F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14EE6158-0B98-4139-B794-21EA173D47F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F020620-9F6F-4EA7-A3DF-B0C78CCC6133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F020620-9F6F-4EA7-A3DF-B0C78CCC6133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F020620-9F6F-4EA7-A3DF-B0C78CCC6133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F020620-9F6F-4EA7-A3DF-B0C78CCC6133}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4BF6A755-CADE-4492-8A2E-E8C920437154} = {58C674E1-8D6F-4335-B68E-5252FAFCBD3D}
+		{56927DAB-3E74-4364-980F-3F560E85FCD6} = {58C674E1-8D6F-4335-B68E-5252FAFCBD3D}
+	EndGlobalSection
+EndGlobal

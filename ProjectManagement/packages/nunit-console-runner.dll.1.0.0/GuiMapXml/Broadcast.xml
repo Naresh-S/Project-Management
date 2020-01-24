@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UIElement AutomationId="AID_BroadcastRegionView" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="BroadcastRegion">
+  <UIElement AutomationId="AID_BroadcastRegionViewMoveAndResizeLabel" ControlType="ControlType.Text" IsEnabled="true" Name="move &amp; resize" ClassName="Text">
+    <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="move &amp; resize" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_BroadcastRegionViewBroadcastZoneLabel" ControlType="ControlType.Text" IsEnabled="true" Name="broadcast zone" ClassName="Text">
+    <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="broadcast zone" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_BroadcastRegionViewStatusLabel" ControlType="ControlType.Text" IsEnabled="true" Name="OFF AIR" ClassName="Text">
+    <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="OFF AIR" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_BroadcastRegionViewToggleBtn" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+  <UIElement AutomationId="AddUserButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+  <UIElement AutomationId="AID_BroadcastRegionViewToggleMoveBtn" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+  <UIElement AutomationId="AID_BroadcastRegionViewShareBtn" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+  <UIElement AutomationId="AID_BroadcastRegionViewSnapshotBtn" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+  <UIElement AutomationId="AID_BroadcastRegionViewRemoveBtn" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+  <UIElement AutomationId="AID_SideContextMenuView" ControlType="ControlType.Custom" IsEnabled="false" Name="" ClassName="SideContextMenu" />
+  <UIElement AutomationId="AID_SideContextMenuView" ControlType="ControlType.Custom" IsEnabled="false" Name="" ClassName="SideContextMenu" />
+</UIElement>

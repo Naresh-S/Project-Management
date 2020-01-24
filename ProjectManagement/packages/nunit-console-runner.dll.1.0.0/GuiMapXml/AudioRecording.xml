@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UIElement AutomationId="AID_AudioStageItemView" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AudioStageItem">
+  <UIElement AutomationId="AID_AudioStageItemViewTouchtoStart" ControlType="ControlType.Text" IsEnabled="true" Name="Audio Recording\n(Touch Record Button to Start)" ClassName="TextBlock" />
+  <UIElement AutomationId="AID_AudioStageItemViewAudioRcrdCtrls" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AudioRecordControls">
+    <UIElement AutomationId="container" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl">
+      <UIElement AutomationId="AID_AudioRecordControlsViewRecordBtn" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="ImageButton">
+        <UIElement AutomationId="" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+        <UIElement AutomationId="AID_ImageButtonViewImage" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+      </UIElement>
+      <UIElement AutomationId="AID_AudioRecordControlsViewStopBtn" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="ImageButton" />
+      <UIElement AutomationId="AID_AudioRecordControlsViewSeparatorRight" ControlType="ControlType.Separator" IsEnabled="false" Name="" ClassName="Separator" />
+      <UIElement AutomationId="AID_AudioRecordControlsViewProgressBar" ControlType="ControlType.ProgressBar" IsEnabled="true" Name="" ClassName="ProgressBar" />
+    </UIElement>
+  </UIElement>
+  <UIElement AutomationId="AID_AudioStageItemViewMediaElement" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="MediaElement" />
+  <UIElement AutomationId="AID_AudioStageItemViewAudioCtrlsTb" ControlType="ControlType.Text" IsEnabled="true" Name="" ClassName="TextBlock" />
+  <UIElement AutomationId="AID_AudioStageItemViewAudioCtrls" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="MediaControls" />
+  <UIElement AutomationId="AID_SideContextMenuView" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="SideContextMenu">
+    <UIElement AutomationId="AID_SideContextMenuItemREMOVE" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="SideContextMenuItem">
+      <UIElement AutomationId="AID_SideContextMenuItemViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+      <UIElement AutomationId="AID_SideContextMenuItemViewText" ControlType="ControlType.Text" IsEnabled="true" Name="REMOVE" ClassName="TextBlock" />
+      <UIElement AutomationId="AID_SideContextMenuItemViewBtn" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+    </UIElement>
+    <UIElement AutomationId="AID_SideContextMenuItemDESELECT" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="SideContextMenuItem">
+      <UIElement AutomationId="AID_SideContextMenuItemViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+      <UIElement AutomationId="AID_SideContextMenuItemViewText" ControlType="ControlType.Text" IsEnabled="true" Name="DESELECT" ClassName="TextBlock" />
+      <UIElement AutomationId="AID_SideContextMenuItemViewBtn" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+    </UIElement>
+  </UIElement>
+  <UIElement AutomationId="AID_SideContextMenuView" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="SideContextMenu">
+    <UIElement AutomationId="AID_SideContextMenuItemREMOVE" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="SideContextMenuItem">
+      <UIElement AutomationId="AID_SideContextMenuItemViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+      <UIElement AutomationId="AID_SideContextMenuItemViewText" ControlType="ControlType.Text" IsEnabled="true" Name="REMOVE" ClassName="TextBlock" />
+      <UIElement AutomationId="AID_SideContextMenuItemViewBtn" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+    </UIElement>
+    <UIElement AutomationId="AID_SideContextMenuItemDESELECT" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="SideContextMenuItem">
+      <UIElement AutomationId="AID_SideContextMenuItemViewIcon" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+      <UIElement AutomationId="AID_SideContextMenuItemViewText" ControlType="ControlType.Text" IsEnabled="true" Name="DESELECT" ClassName="TextBlock" />
+      <UIElement AutomationId="AID_SideContextMenuItemViewBtn" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+    </UIElement>
+  </UIElement>
+</UIElement>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UIElement AutomationId="AID_ProjectsModuleProjectsView" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="ProjectsView">
+  <UIElement AutomationId="AID_ProjectsViewProgressBar" ControlType="ControlType.ProgressBar" IsEnabled="true" Name="" ClassName="ProgressBar" />
+  <UIElement AutomationId="AID_tbProjectsViewVersion" ControlType="ControlType.Text" IsEnabled="true" Name="v2.0" ClassName="TextBlock" />
+  <UIElement AutomationId="AID_imgProjectsViewLogOut" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+  <UIElement AutomationId="AID_tbProjectsViewLogOut" ControlType="ControlType.Text" IsEnabled="true" Name="Logout" ClassName="TextBlock" />
+  <UIElement AutomationId="AID_btnProjectsViewLogOut" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+  <UIElement AutomationId="AID_imgProjectsViewAddProject" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+  <UIElement AutomationId="AID_tbProjectsViewAddProject" ControlType="ControlType.Text" IsEnabled="true" Name="Add Project" ClassName="TextBlock" />
+  <UIElement AutomationId="AID_btnProjectsViewAddProject" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+  <UIElement AutomationId="AID_ProjectsViewScrollViewer" ControlType="ControlType.Pane" IsEnabled="true" Name="" ClassName="ScrollViewer">
+    <UIElement AutomationId="AID_ProjectListItemView" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="ProjectListItem">
+      <UIElement AutomationId="AID_ProjectListItemViewtbWorkspaceCount" ControlType="ControlType.Text" IsEnabled="true" Name="1" ClassName="TextBlock" />
+      <UIElement AutomationId="AID_ProjectListItemViewlblWorkspace" ControlType="ControlType.Text" IsEnabled="true" Name="Workspaces" ClassName="TextBlock" />
+      <UIElement AutomationId="AID_ProjectListItemViewtbFileCount" ControlType="ControlType.Text" IsEnabled="true" Name="0" ClassName="TextBlock" />
+      <UIElement AutomationId="AID_ProjectListItemViewlblFileCount" ControlType="ControlType.Text" IsEnabled="true" Name="Files" ClassName="TextBlock" />
+      <UIElement AutomationId="AID_ProjectListItemViewProjectName" ControlType="ControlType.Text" IsEnabled="true" Name="TestingProjectView" ClassName="TextBlock" />
+      <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Created 10/27/2015" ClassName="Text">
+        <UIElement AutomationId="AID_ProjectListItemViewtbCreatedDate" ControlType="ControlType.Text" IsEnabled="true" Name="Created 10/27/2015" ClassName="TextBlock" />
+      </UIElement>
+      <UIElement AutomationId="AID_ProjectListItemViewClickOnProject" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+      <UIElement AutomationId="AID_ProjectListItemViewbtnDelete" ControlType="ControlType.Button" IsEnabled="true" Name="Delete" ClassName="Button" />
+      <UIElement AutomationId="AID_ProjectListItemViewbtnEdit" ControlType="ControlType.Button" IsEnabled="true" Name="Edit" ClassName="Button">
+        <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Edit" ClassName="TextBlock" />
+      </UIElement>
+    </UIElement>
+    <UIElement AutomationId="AID_ProjectListItemView" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="ProjectListItem">
+      <UIElement AutomationId="AID_ProjectListItemViewtbWorkspaceCount" ControlType="ControlType.Text" IsEnabled="true" Name="1" ClassName="TextBlock" />
+      <UIElement AutomationId="AID_ProjectListItemViewlblWorkspace" ControlType="ControlType.Text" IsEnabled="true" Name="Workspaces" ClassName="TextBlock" />
+      <UIElement AutomationId="AID_ProjectListItemViewtbFileCount" ControlType="ControlType.Text" IsEnabled="true" Name="0" ClassName="TextBlock" />
+      <UIElement AutomationId="AID_ProjectListItemViewlblFileCount" ControlType="ControlType.Text" IsEnabled="true" Name="Files" ClassName="TextBlock" />
+      <UIElement AutomationId="AID_ProjectListItemViewProjectName" ControlType="ControlType.Text" IsEnabled="true" Name="123" ClassName="TextBlock" />
+      <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Created 10/27/2015" ClassName="Text">
+        <UIElement AutomationId="AID_ProjectListItemViewtbCreatedDate" ControlType="ControlType.Text" IsEnabled="true" Name="Created 10/27/2015" ClassName="TextBlock" />
+      </UIElement>
+      <UIElement AutomationId="AID_ProjectListItemViewClickOnProject" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+      <UIElement AutomationId="AID_ProjectListItemViewbtnDelete" ControlType="ControlType.Button" IsEnabled="true" Name="Delete" ClassName="Button" />
+      <UIElement AutomationId="AID_ProjectListItemViewbtnEdit" ControlType="ControlType.Button" IsEnabled="true" Name="Edit" ClassName="Button">
+        <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Edit" ClassName="TextBlock" />
+      </UIElement>
+    </UIElement>
+    <UIElement AutomationId="HorizontalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+  </UIElement>
+</UIElement>

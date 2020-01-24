@@ -1,0 +1,10 @@
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.DAL\bin\Release\ProjectManagement.DAL.dll.config
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.DAL\bin\Release\ProjectManagement.DAL.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.DAL\bin\Release\ProjectManagement.DAL.pdb
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.DAL\bin\Release\EntityFramework.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.DAL\bin\Release\EntityFramework.SqlServer.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.DAL\bin\Release\EntityFramework.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.DAL\bin\Release\EntityFramework.SqlServer.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.DAL\obj\Release\ProjectManagement.DAL.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.DAL\obj\Release\ProjectManagement.DAL.pdb
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.DAL\obj\Release\ProjectManagement.DAL.csprojResolveAssemblyReference.cache

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UIElement AutomationId="AID_PresenceTrayView" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="PresenceTrayView">
+  <UIElement AutomationId="AID_PresenceProfileView" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="PresenceProfileView">
+    <UIElement AutomationId="AID_PresenceProfileViewCurrentUserProfilePicBtn" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+    <UIElement AutomationId="AID_PresenceProfileViewCurrentUserNameTb" ControlType="ControlType.Text" IsEnabled="true" Name="Somalingam Chandra" ClassName="TextBlock" />
+    <UIElement AutomationId="AID_PresenceProfileViewCurrentUserPersonalNoteTb" ControlType="ControlType.Text" IsEnabled="true" Name="Don't compare yourself with anyone in this world... Because you are unique.." ClassName="TextBlock" />
+    <UIElement AutomationId="AID_StatusAvailabilityValue" ControlType="ControlType.Text" IsEnabled="false" Name="Available" ClassName="Text">
+      <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="false" Name="Available" ClassName="TextBlock" />
+    </UIElement>
+    <UIElement AutomationId="AID_PresenceProfileViewAvailabilityComboBox" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="PresenceAvailabilityComboBox">
+      <UIElement AutomationId="AID_PresenceAvailabilityComboBoxViewToggleButton" ControlType="ControlType.Button" IsEnabled="true" Name="Available" ClassName="Button">
+        <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Available" ClassName="TextBlock" />
+      </UIElement>
+    </UIElement>
+    <UIElement AutomationId="AID_PresenceProfileViewContactsBtn" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+    <UIElement AutomationId="AID_PresenceProfileViewPresencePresenceProfileViewLabelContacts" ControlType="ControlType.Text" IsEnabled="true" Name="Contacts" ClassName="TextBlock" />
+    <UIElement AutomationId="AID_PresenceProfileViewSearchContactsButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+    <UIElement AutomationId="AID_PresenceProfileViewPresenceProfileViewLabelSearchContacts" ControlType="ControlType.Text" IsEnabled="true" Name="Search Contacts" ClassName="TextBlock" />
+    <UIElement AutomationId="AID_PresenceProfileViewMeetingsButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+    <UIElement AutomationId="AID_PresenceProfileViewPresenceProfileViewLabelMeetings" ControlType="ControlType.Text" IsEnabled="true" Name="Meetings" ClassName="TextBlock" />
+    <UIElement AutomationId="AID_PresenceProfileViewSettingsButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+    <UIElement AutomationId="AID_PresenceProfileViewPresenceProfileViewLabelSettings" ControlType="ControlType.Text" IsEnabled="true" Name="Settings" ClassName="TextBlock" />
+    <UIElement AutomationId="AID_PresenceProfileViewMeetNowButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+    <UIElement AutomationId="AID_PresenceProfileViewMeetNowText" ControlType="ControlType.Text" IsEnabled="true" Name="Meet Now" ClassName="TextBlock" />
+    <UIElement AutomationId="AID_PresenceProfileViewSignOutButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+    <UIElement AutomationId="AID_PresenceProfileViewPresenceProfileViewLabelSignOut" ControlType="ControlType.Text" IsEnabled="true" Name="Sign Out" ClassName="TextBlock" />
+    <UIElement AutomationId="AID_PresenceProfileViewProgressBar" ControlType="ControlType.ProgressBar" IsEnabled="true" Name="" ClassName="ProgressBar" />
+  </UIElement>
+  <UIElement AutomationId="AID_PresenceIncomingNotificationListView" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="PresenceIncomingNotificationListView">
+    <UIElement AutomationId="AID_PresenceIncomingNotificationListViewNotificationsList" ControlType="ControlType.List" IsEnabled="true" Name="" ClassName="ListBox" />
+  </UIElement>
+  <UIElement AutomationId="AID_PresenceTrayViewProfileBtn" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+  <UIElement AutomationId="AID_PresenceTrayViewContactsBtn" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+  <UIElement AutomationId="AID_PresenceTrayViewContactsSearchButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+  <UIElement AutomationId="AID_PresenceTrayViewCalendarBtn" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+  <UIElement AutomationId="AID_PresenceTrayViewSettingsBtn" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+  <UIElement AutomationId="AID_PresenceTrayViewToggleTrayButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+</UIElement>

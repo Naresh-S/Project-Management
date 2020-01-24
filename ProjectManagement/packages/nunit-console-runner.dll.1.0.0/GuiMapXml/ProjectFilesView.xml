@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UIElement AutomationId="AID_FileListView" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="ProjectFileListView">
+  <UIElement AutomationId="" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="DrivesView">
+    <UIElement AutomationId="HeaderText" ControlType="ControlType.Text" IsEnabled="true" Name="OneDrive" ClassName="Text">
+      <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="OneDrive" ClassName="TextBlock" />
+    </UIElement>
+    <UIElement AutomationId="CollapseButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+    <UIElement AutomationId="ExportNotificationText" ControlType="ControlType.Text" IsEnabled="true" Name="Select a drive to export your files." ClassName="TextBlock" />
+    <UIElement AutomationId="AID_DrivesListSurfaceListBox" ControlType="ControlType.List" IsEnabled="true" Name="" ClassName="ListBox">
+      <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="Synthesis.Business.Controls.FileList.Models.DriveItem" ClassName="ListBoxItem">
+        <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="OneDrive" ClassName="Text">
+          <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="OneDrive" ClassName="TextBlock" />
+        </UIElement>
+      </UIElement>
+      <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="Synthesis.Business.Controls.FileList.Models.DriveItem" ClassName="ListBoxItem">
+        <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Box" ClassName="Text">
+          <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Box" ClassName="TextBlock" />
+        </UIElement>
+      </UIElement>
+      <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="Synthesis.Business.Controls.FileList.Models.DriveItem" ClassName="ListBoxItem">
+        <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="USB Drives" ClassName="Text">
+          <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="USB Drives" ClassName="TextBlock" />
+        </UIElement>
+      </UIElement>
+      <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="Synthesis.Business.Controls.FileList.Models.DriveItem" ClassName="ListBoxItem">
+        <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Network Drives" ClassName="Text">
+          <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Network Drives" ClassName="TextBlock" />
+        </UIElement>
+      </UIElement>
+    </UIElement>
+    <UIElement AutomationId="DriveContentsView" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="DriveContentsView">
+      <UIElement AutomationId="FolderBackButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button">
+        <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="" ClassName="Text" />
+      </UIElement>
+      <UIElement AutomationId="AID_DriveContentsItemsSurfaceListBox" ControlType="ControlType.List" IsEnabled="true" Name="" ClassName="ListBox">
+        <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="Synthesis.Business.Controls.FileList.Models.DriveContentItem" ClassName="ListBoxItem">
+          <UIElement AutomationId="DriveContentItemButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button">
+            <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Saf" ClassName="Text">
+              <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Saf" ClassName="TextBlock" />
+            </UIElement>
+          </UIElement>
+          <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Saf" ClassName="TextBlock" />
+          <UIElement AutomationId="CancelExportButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+          <UIElement AutomationId="ImportProgressBar" ControlType="ControlType.ProgressBar" IsEnabled="true" Name="" ClassName="ProgressBar" />
+        </UIElement>
+        <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="Synthesis.Business.Controls.FileList.Models.DriveContentItem" ClassName="ListBoxItem">
+          <UIElement AutomationId="DriveContentItemButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button">
+            <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="MultiPage.pdf" ClassName="Text">
+              <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="MultiPage.pdf" ClassName="TextBlock" />
+            </UIElement>
+          </UIElement>
+          <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="MultiPage.pdf" ClassName="TextBlock" />
+          <UIElement AutomationId="CancelExportButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+          <UIElement AutomationId="ImportProgressBar" ControlType="ControlType.ProgressBar" IsEnabled="true" Name="" ClassName="ProgressBar" />
+        </UIElement>
+        <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="Synthesis.Business.Controls.FileList.Models.DriveContentItem" ClassName="ListBoxItem">
+          <UIElement AutomationId="DriveContentItemButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button">
+            <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="NewProjectFileDialog.PNG" ClassName="Text">
+              <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="NewProjectFileDialog.PNG" ClassName="TextBlock" />
+            </UIElement>
+          </UIElement>
+          <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="NewProjectFileDialog.PNG" ClassName="TextBlock" />
+          <UIElement AutomationId="CancelExportButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+          <UIElement AutomationId="ImportProgressBar" ControlType="ControlType.ProgressBar" IsEnabled="true" Name="" ClassName="ProgressBar" />
+        </UIElement>
+      </UIElement>
+      <UIElement AutomationId="NumberOfFilesLabel" ControlType="ControlType.Text" IsEnabled="true" Name="0 file selected" ClassName="Text">
+        <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="0 file selected" ClassName="TextBlock" />
+      </UIElement>
+      <UIElement AutomationId="ImportButton" ControlType="ControlType.Button" IsEnabled="true" Name="Import" ClassName="Button">
+        <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Import" ClassName="Text">
+          <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Import" ClassName="TextBlock" />
+        </UIElement>
+      </UIElement>
+      <UIElement AutomationId="CancelButton" ControlType="ControlType.Button" IsEnabled="true" Name="Cancel" ClassName="Button">
+        <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Cancel" ClassName="Text">
+          <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Cancel" ClassName="TextBlock" />
+        </UIElement>
+      </UIElement>
+    </UIElement>
+    <UIElement AutomationId="" ControlType="ControlType.List" IsEnabled="true" Name="" ClassName="ListBox">
+      <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="Synthesis.Business.Controls.FileList.Models.DriveItem" ClassName="ListBoxItem">
+        <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="OneDrive" ClassName="TextBlock" />
+      </UIElement>
+      <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="Synthesis.Business.Controls.FileList.Models.DriveItem" ClassName="ListBoxItem">
+        <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Box" ClassName="TextBlock" />
+      </UIElement>
+      <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="Synthesis.Business.Controls.FileList.Models.DriveItem" ClassName="ListBoxItem">
+        <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="USB Drives" ClassName="TextBlock" />
+      </UIElement>
+      <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="Synthesis.Business.Controls.FileList.Models.DriveItem" ClassName="ListBoxItem">
+        <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Network Drives" ClassName="TextBlock" />
+      </UIElement>
+    </UIElement>
+  </UIElement>
+  <UIElement AutomationId="AID_FileListViewTopHeader" ControlType="ControlType.Text" IsEnabled="true" Name="PROJECT FILES (3)" ClassName="TextBlock" />
+  <UIElement AutomationId="AID_FileListViewbtnRemove" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+  <UIElement AutomationId="AID_FileListViewttbSearchBox" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="TouchTextBox">
+    <UIElement AutomationId="AID_TouchTexBoxViewInputTextBox" ControlType="ControlType.Edit" IsEnabled="true" Name="" ClassName="TextBox">
+      <UIElement AutomationId="VerticalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+      <UIElement AutomationId="HorizontalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+    </UIElement>
+    <UIElement AutomationId="UserMessage" ControlType="ControlType.Text" IsEnabled="true" Name="" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="filterLabel" ControlType="ControlType.Text" IsEnabled="true" Name="Sort" ClassName="TextBlock" />
+  <UIElement AutomationId="SearchClearButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+  <UIElement AutomationId="SortDropDown" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="FileSortComboBox">
+    <UIElement AutomationId="SortOrderToggleButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button">
+      <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="File Name" ClassName="TextBlock" />
+    </UIElement>
+    <UIElement AutomationId="SortToggleButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+  </UIElement>
+  <UIElement AutomationId="" ControlType="ControlType.List" IsEnabled="true" Name="" ClassName="ListBox">
+    <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="ALL" ClassName="ListBoxItem">
+      <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="ALL" ClassName="TextBlock" />
+    </UIElement>
+    <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="IMAGES" ClassName="ListBoxItem">
+      <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="IMAGES" ClassName="TextBlock" />
+    </UIElement>
+    <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="SNAPSHOTS" ClassName="ListBoxItem">
+      <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="SNAPSHOTS" ClassName="TextBlock" />
+    </UIElement>
+    <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="VIDEOS" ClassName="ListBoxItem">
+      <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="VIDEOS" ClassName="TextBlock" />
+    </UIElement>
+    <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="DOCS" ClassName="ListBoxItem">
+      <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="DOCS" ClassName="TextBlock" />
+    </UIElement>
+  </UIElement>
+  <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="" ClassName="TextBlock" />
+  <UIElement AutomationId="filesList" ControlType="ControlType.List" IsEnabled="true" Name="" ClassName="ListBox">
+    <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="Synthesis.Business.Controls.FileList.ViewModels.ProjectFileListItemViewModel" ClassName="ListBoxItem">
+      <UIElement AutomationId="editButton" ControlType="ControlType.Button" IsEnabled="true" Name="Edit" ClassName="Button">
+        <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Edit" ClassName="TextBlock" />
+      </UIElement>
+      <UIElement AutomationId="deleteButton" ControlType="ControlType.Button" IsEnabled="true" Name="Delete" ClassName="Button">
+        <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Delete" ClassName="TextBlock" />
+      </UIElement>
+      <UIElement AutomationId="moreOptionsButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+      <UIElement AutomationId="ItemSelectButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button">
+        <UIElement AutomationId="" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+        <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="2010CapitalDocx" ClassName="TextBlock" />
+        <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Imported by unknown: 2/25/2016 8:25:06 AM" ClassName="TextBlock" />
+      </UIElement>
+      <UIElement AutomationId="RetryImportButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+      <UIElement AutomationId="CancelImportButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+      <UIElement AutomationId="ImportProgressBar" ControlType="ControlType.ProgressBar" IsEnabled="true" Name="" ClassName="ProgressBar" />
+    </UIElement>
+    <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="Synthesis.Business.Controls.FileList.ViewModels.ProjectFileListItemViewModel" ClassName="ListBoxItem">
+      <UIElement AutomationId="editButton" ControlType="ControlType.Button" IsEnabled="true" Name="Edit" ClassName="Button">
+        <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Edit" ClassName="TextBlock" />
+      </UIElement>
+      <UIElement AutomationId="deleteButton" ControlType="ControlType.Button" IsEnabled="true" Name="Delete" ClassName="Button">
+        <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Delete" ClassName="TextBlock" />
+      </UIElement>
+      <UIElement AutomationId="moreOptionsButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+      <UIElement AutomationId="ItemSelectButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button">
+        <UIElement AutomationId="" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+        <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="2010SmallDocx" ClassName="TextBlock" />
+        <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Imported by unknown: 2/25/2016 8:25:10 AM" ClassName="TextBlock" />
+      </UIElement>
+      <UIElement AutomationId="RetryImportButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+      <UIElement AutomationId="CancelImportButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+      <UIElement AutomationId="ImportProgressBar" ControlType="ControlType.ProgressBar" IsEnabled="true" Name="" ClassName="ProgressBar" />
+    </UIElement>
+    <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="Synthesis.Business.Controls.FileList.ViewModels.ProjectFileListItemViewModel" ClassName="ListBoxItem">
+      <UIElement AutomationId="editButton" ControlType="ControlType.Button" IsEnabled="true" Name="Edit" ClassName="Button">
+        <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Edit" ClassName="TextBlock" />
+      </UIElement>
+      <UIElement AutomationId="deleteButton" ControlType="ControlType.Button" IsEnabled="true" Name="Delete" ClassName="Button">
+        <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Delete" ClassName="TextBlock" />
+      </UIElement>
+      <UIElement AutomationId="moreOptionsButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+      <UIElement AutomationId="ItemSelectButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button">
+        <UIElement AutomationId="" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+        <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="AddVideo" ClassName="TextBlock" />
+        <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Imported by unknown: 2/25/2016 8:25:41 AM" ClassName="TextBlock" />
+      </UIElement>
+      <UIElement AutomationId="RetryImportButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+      <UIElement AutomationId="CancelImportButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+      <UIElement AutomationId="ImportProgressBar" ControlType="ControlType.ProgressBar" IsEnabled="true" Name="" ClassName="ProgressBar" />
+    </UIElement>
+  </UIElement>
+  <UIElement AutomationId="openDrivesButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+  <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="" ClassName="TextBlock" />
+  <UIElement AutomationId="AddFileToStageButton" ControlType="ControlType.Button" IsEnabled="true" Name="Add" ClassName="Button">
+    <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Add" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="ExportFileButton" ControlType="ControlType.Button" IsEnabled="true" Name="Export" ClassName="Button">
+    <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Export" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="CancelButton" ControlType="ControlType.Button" IsEnabled="true" Name="Cancel" ClassName="Button">
+    <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Cancel" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Edit File" ClassName="Text" />
+  <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="File Name:" ClassName="Text" />
+  <UIElement AutomationId="AID_TouchTexBoxView" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="TouchTextBox" />
+  <UIElement AutomationId="AID_FileListViewValidatorImg" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+  <UIElement AutomationId="SaveButton" ControlType="ControlType.Button" IsEnabled="true" Name="Save" ClassName="Button" />
+  <UIElement AutomationId="CancelEditButton" ControlType="ControlType.Button" IsEnabled="true" Name="Cancel" ClassName="Button" />
+  <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Delete this file?" ClassName="Text" />
+  <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="" ClassName="TextBlock" />
+  <UIElement AutomationId="YesButton" ControlType="ControlType.Button" IsEnabled="true" Name="Yes" ClassName="Button" />
+  <UIElement AutomationId="NoButton" ControlType="ControlType.Button" IsEnabled="true" Name="No" ClassName="Button" />
+</UIElement>

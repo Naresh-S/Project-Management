@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UIElement AutomationId="AID_PresenceConversationView" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="PresenceConversationView">
+  <UIElement AutomationId="AID_PresenceConversationViewVideoPanelSnapShot" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+  <UIElement AutomationId="AID_PresenceConversationViewSkypeScrollViewer" ControlType="ControlType.Pane" IsEnabled="true" Name="" ClassName="ScrollViewer">
+    <UIElement AutomationId="AID_PresenceConversationViewChatMessageUserFullName" ControlType="ControlType.Text" IsEnabled="true" Name="Somalingam Chandra" ClassName="TextBlock" />
+    <UIElement AutomationId="AID_PresenceConversationViewMessageTimestamp" ControlType="ControlType.Text" IsEnabled="true" Name="10:44 AM" ClassName="TextBlock" />
+    <UIElement AutomationId="AID_PresenceConversationViewChatMessageText" ControlType="ControlType.Text" IsEnabled="true" Name="Somalingam Chandra is requesting a conversation via Synthesis." ClassName="TextBlock" />
+    <UIElement AutomationId="SkypeVerticalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+  </UIElement>
+  <UIElement AutomationId="AID_PresenceConversationViewChatTextBox" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="TouchTextBox">
+    <UIElement AutomationId="AID_TouchTexBoxViewInputTextBox" ControlType="ControlType.Edit" IsEnabled="true" Name="" ClassName="TextBox">
+      <UIElement AutomationId="VerticalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+      <UIElement AutomationId="HorizontalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+    </UIElement>
+    <UIElement AutomationId="UserMessage" ControlType="ControlType.Text" IsEnabled="true" Name="Type message here..." ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_PresenceConversationViewConversationCheckBox" ControlType="ControlType.CheckBox" IsEnabled="true" Name="" ClassName="CheckBox" />
+  <UIElement AutomationId="AID_PresenceConversationViewShareBroadcastBtn" ControlType="ControlType.Button" IsEnabled="false" Name="" ClassName="Button" />
+  <UIElement AutomationId="AID_PresenceConversationViewStopShareBroadcastBtn" ControlType="ControlType.Button" IsEnabled="false" Name="" ClassName="Button" />
+  <UIElement AutomationId="AID_PresenceConversationViewConversationButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+  <UIElement AutomationId="AID_PresenceConversationViewAudioCommandBtn" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+  <UIElement AutomationId="AID_PresenceConversationViewMuteAudioCommandBtn" ControlType="ControlType.Button" IsEnabled="false" Name="" ClassName="Button" />
+  <UIElement AutomationId="AID_PresenceConversationViewUnMuteAudioCommand" ControlType="ControlType.Button" IsEnabled="false" Name="" ClassName="Button" />
+  <UIElement AutomationId="AID_PresenceConversationViewConversationButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+  <UIElement AutomationId="AID_PresenceConversationViewVideoCommandBtn" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+  <UIElement AutomationId="AID_PresenceConversationViewPauseVideoCommandBtn" ControlType="ControlType.Button" IsEnabled="false" Name="" ClassName="Button" />
+  <UIElement AutomationId="AID_PresenceConversationViewResumeVideoCommandBtn" ControlType="ControlType.Button" IsEnabled="false" Name="" ClassName="Button" />
+  <UIElement AutomationId="AID_PresenceConversationViewIsChatOpenChkbx" ControlType="ControlType.CheckBox" IsEnabled="true" Name="" ClassName="CheckBox" />
+  <UIElement AutomationId="AID_PresenceConversationViewCloseCommandBtn" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+  <UIElement AutomationId="AID_PresenceConversationViewHangUpCommandBtn" ControlType="ControlType.Button" IsEnabled="false" Name="" ClassName="Button" />
+  <UIElement AutomationId="AID_PresenceConversationViewParticipatnScrollBar" ControlType="ControlType.Pane" IsEnabled="true" Name="" ClassName="ScrollViewer">
+    <UIElement AutomationId="SkypeHorizontalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+  </UIElement>
+  <UIElement AutomationId="AID_PresenceConversationViewProgressBar" ControlType="ControlType.ProgressBar" IsEnabled="true" Name="" ClassName="ProgressBar" />
+</UIElement>

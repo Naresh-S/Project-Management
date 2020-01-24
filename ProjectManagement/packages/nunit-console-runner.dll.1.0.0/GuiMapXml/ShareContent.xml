@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UIElement AutomationId="AID_EmailFormView" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="EmailForm">
+  <UIElement AutomationId="AID_EmailFormViewtbHeader" ControlType="ControlType.Text" IsEnabled="true" Name="Share Content" ClassName="TextBlock" />
+  <UIElement AutomationId="AID_EmailFormViewlblEmailInstruction" ControlType="ControlType.Text" IsEnabled="true" Name="Note: Enter 1 email or multiple emails using a comma to separate each email." ClassName="Text">
+    <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Note: Enter 1 email or multiple emails using a comma to separate each email." ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_EmailFormViewlblEmailTo" ControlType="ControlType.Text" IsEnabled="true" Name="To:" ClassName="Text">
+    <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="To:" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_EmailFormViewtbEmailTo" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="TouchTextBox">
+    <UIElement AutomationId="AID_TouchTexBoxViewInputTextBox" ControlType="ControlType.Edit" IsEnabled="true" Name="" ClassName="TextBox">
+      <UIElement AutomationId="VerticalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+      <UIElement AutomationId="HorizontalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+    </UIElement>
+  </UIElement>
+  <UIElement AutomationId="AID_EmailFormViewimgError" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+  <UIElement AutomationId="AID_EmailFormViewlblErrorMsg" ControlType="ControlType.Text" IsEnabled="true" Name="Enter email addresses in a valid format." ClassName="Text">
+    <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Enter email addresses in a valid format." ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_EmailFormViewbtnSend" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="TextButton">
+    <UIElement AutomationId="" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_TextButtonViewText" ControlType="ControlType.Text" IsEnabled="true" Name="Send" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_EmailFormViewbtnCancel" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="TextButton">
+    <UIElement AutomationId="" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_TextButtonViewText" ControlType="ControlType.Text" IsEnabled="true" Name="Cancel" ClassName="TextBlock" />
+  </UIElement>
+</UIElement>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UIElement AutomationId="AID_PresenceMeetingListView" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="PresenceMeetingListView">
+  <UIElement AutomationId="AID_PresenceMeetingListViewTbLabelCalendarStatus" ControlType="ControlType.Text" IsEnabled="true" Name="You currently have no available meetings." ClassName="TextBlock" />
+  <UIElement AutomationId="AID_PresenceMeetingListViewScrollViewer" ControlType="ControlType.Pane" IsEnabled="true" Name="" ClassName="ScrollViewer">
+    <UIElement AutomationId="VerticalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+  </UIElement>
+  <UIElement AutomationId="AID_PresenceMeetingListViewProgressBar" ControlType="ControlType.ProgressBar" IsEnabled="true" Name="" ClassName="ProgressBar" />
+</UIElement>

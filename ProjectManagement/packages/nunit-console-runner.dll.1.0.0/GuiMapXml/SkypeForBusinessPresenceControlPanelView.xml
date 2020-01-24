@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UIElement AutomationId="AID_PresenceControlPanelView" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="PresenceControlPanelView">
+  <UIElement AutomationId="AID_PresenceControlPanelViewShowParticipantsBtn" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+  <UIElement AutomationId="AID_PresenceControlPanelViewShowContactsBtn" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+  <UIElement AutomationId="AID_PresenceControlPanelViewCbIsLandscape" ControlType="ControlType.CheckBox" IsEnabled="true" Name="" ClassName="CheckBox" />
+  <UIElement AutomationId="AID_PresenceControlPanelViewShareBroadcastBtn" ControlType="ControlType.Button" IsEnabled="false" Name="" ClassName="Button" />
+  <UIElement AutomationId="AID_PresenceControlPanelViewStopShareBroadcastBtn" ControlType="ControlType.Button" IsEnabled="false" Name="" ClassName="Button" />
+  <UIElement AutomationId="AID_PresenceControlPanelViewConversationButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+  <UIElement AutomationId="" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+  <UIElement AutomationId="AID_PresenceControlPanelViewMuteAudioBtn" ControlType="ControlType.Button" IsEnabled="false" Name="" ClassName="Button" />
+  <UIElement AutomationId="AID_PresenceControlPanelViewUnMuteAudioBtn" ControlType="ControlType.Button" IsEnabled="false" Name="" ClassName="Button" />
+  <UIElement AutomationId="AID_PresenceControlPanelViewConversationButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+  <UIElement AutomationId="AID_PresenceControlPanelViewVideoBtn" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+  <UIElement AutomationId="AID_PresenceControlPanelViewPauseVideoBtn" ControlType="ControlType.Button" IsEnabled="false" Name="" ClassName="Button" />
+  <UIElement AutomationId="AID_PresenceControlPanelViewResumeVideoBtn" ControlType="ControlType.Button" IsEnabled="false" Name="" ClassName="Button" />
+  <UIElement AutomationId="AID_PresenceControlPanelViewCbIsChatOpen" ControlType="ControlType.CheckBox" IsEnabled="true" Name="" ClassName="CheckBox" />
+  <UIElement AutomationId="AID_PresenceControlPanelViewCloseBtn" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+  <UIElement AutomationId="AID_PresenceControlPanelViewHanUpBtn" ControlType="ControlType.Button" IsEnabled="false" Name="" ClassName="Button" />
+  <UIElement AutomationId="AID_PresenceControlPanelViewShowBtn" ControlType="ControlType.Button" IsEnabled="false" Name="" ClassName="Button" />
+  <UIElement AutomationId="AID_PresenceControlPanelViewBusyProgressBar" ControlType="ControlType.ProgressBar" IsEnabled="true" Name="" ClassName="ProgressBar" />
+</UIElement>

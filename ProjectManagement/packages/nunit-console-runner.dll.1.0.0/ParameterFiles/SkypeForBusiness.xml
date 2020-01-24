@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<AllTestCases>
+  <TestCase Name="S4B_M01_LoginToSkypeForBusiness">
+    <InputField Name="Address" Value="schandra@prysm.com"/>
+    <InputField Name="Username" Value="schandra@prysm.com"/>
+    <InputField Name="Password" Value="Rightnow.5"/>    
+  </TestCase>
+  <TestCase Name="S4B_M02_OpenContact">
+    <InputField Name="ContactName" Value="Ramakrishna Kolli"/>
+  </TestCase>
+</AllTestCases>

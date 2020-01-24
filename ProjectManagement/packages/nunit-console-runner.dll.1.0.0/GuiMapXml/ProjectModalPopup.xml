@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UIElement AutomationId="AID_ProjectFormViewRoot" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl">
+  <UIElement AutomationId="AID_ProjectFormViewHeader" ControlType="ControlType.Text" IsEnabled="true" Name="Create Project" ClassName="TextBlock" />
+  <UIElement AutomationId="AID_ProjectFormViewlblProjectName" ControlType="ControlType.Text" IsEnabled="true" Name="Name:" ClassName="Text">
+    <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Name:" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_ProjectFormViewtbProjectName" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="TouchTextBox">
+    <UIElement AutomationId="AID_TouchTexBoxViewInputTextBox" ControlType="ControlType.Edit" IsEnabled="true" Name="" ClassName="TextBox">
+      <UIElement AutomationId="VerticalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+      <UIElement AutomationId="HorizontalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+    </UIElement>
+  </UIElement>
+  <UIElement AutomationId="AID_ProjectFormViewimgProjectName" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+  <UIElement AutomationId="AID_ProjectFormViewlblAspectRatio" ControlType="ControlType.Text" IsEnabled="true" Name="Aspect Ratio:" ClassName="Text">
+    <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Aspect Ratio:" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_ProjectFormViewCanvasSelector" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="ProjectCanvasSelector">
+    <UIElement AutomationId="AID_ProjectCanvasSelectorViewScroolViewer" ControlType="ControlType.Pane" IsEnabled="true" Name="" ClassName="ScrollViewer">
+      <UIElement AutomationId="AID_CanvasSizeOptionView" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="CanvasSizeOption">
+        <UIElement AutomationId="AID_CanvasSizeOptionViewText" ControlType="ControlType.Text" IsEnabled="true" Name="32:9 Dual Display (2 x 16:9)" ClassName="TextBlock" />
+        <UIElement AutomationId="AID_CanvasSizeOptionViewVisualRatio" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+      </UIElement>
+      <UIElement AutomationId="VerticalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+    </UIElement>
+  </UIElement>
+  <UIElement AutomationId="AID_ProjectFormViewbtnSave" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="TextButton">
+    <UIElement AutomationId="" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_TextButtonViewText" ControlType="ControlType.Text" IsEnabled="true" Name="Save" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_ProjectFormViewbtnCancel" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="TextButton">
+    <UIElement AutomationId="" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_TextButtonViewText" ControlType="ControlType.Text" IsEnabled="true" Name="Cancel" ClassName="TextBlock" />
+  </UIElement>
+</UIElement>

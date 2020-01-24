@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UIElement AutomationId="AID_ConfirmModalConfirmModalPopUpRoot" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl">
+  <UIElement AutomationId="AID_ConfirmModalPopUpHeader" ControlType="ControlType.Text" IsEnabled="true" Name="Confirm Aspect Ratio Change" ClassName="TextBlock" />
+  <UIElement AutomationId="AID_ConfirmModalPopUpMessage" ControlType="ControlType.Text" IsEnabled="true" Name="Are you sure you want to reduce the aspect ratio for this project? Selecting 'Yes' will reposition ALL the items in ALL of your workspaces to accomodate the smaller aspect ratio." ClassName="TextBlock" />
+  <UIElement AutomationId="AID_ConfirmModalPopUpbtnYes" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="TextButton">
+    <UIElement AutomationId="" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_TextButtonViewText" ControlType="ControlType.Text" IsEnabled="true" Name="Yes" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_ConfirmModalPopUpbtnNo" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="TextButton">
+    <UIElement AutomationId="" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_TextButtonViewText" ControlType="ControlType.Text" IsEnabled="true" Name="No" ClassName="TextBlock" />
+  </UIElement>
+</UIElement>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UIElement AutomationId="AID_ProjectsModuleStageView" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="StageView">
+  <UIElement ClassName="HexNode" Name="" IsEnabled="true" ControlType="ControlType.Custom" AutomationId="AID_HexMenuItemLiveSources"/>
+  <UIElement ClassName="HexNode" Name="" IsEnabled="true" ControlType="ControlType.Custom" AutomationId="AID_HexMenuItemProjectFiles"/>
+  <UIElement ClassName="HexNode" Name="" IsEnabled="true" ControlType="ControlType.Custom" AutomationId="AID_HexMenuItemWhiteboard"/>
+  <UIElement ClassName="HexNode" Name="" IsEnabled="true" ControlType="ControlType.Custom" AutomationId="AID_HexMenuItemWebBrowser"/>
+  <UIElement ClassName="HexNode" Name="" IsEnabled="true" ControlType="ControlType.Custom" AutomationId="AID_HexMenuItemExit"/>
+  <UIElement ClassName="HexNode" Name="" IsEnabled="true" ControlType="ControlType.Custom" AutomationId="AID_HexMenuItemTools"/>
+  <UIElement ClassName="HexNode" Name="" IsEnabled="true" ControlType="ControlType.Custom" AutomationId="AID_HexCyanRootNode"/>
+
+  <!-- Project Files Childs-->   
+      <!-- None as of now-->
+  
+  <!-- Web Browser Childs-->
+  <UIElement ClassName="HexNode" Name="" IsEnabled="true" ControlType="ControlType.Custom" AutomationId="AID_HexMenuItemGoogleSearch"/>
+  <UIElement ClassName="HexNode" Name="" IsEnabled="true" ControlType="ControlType.Custom" AutomationId="AID_HexMenuItemPrysm"/>
+  <UIElement ClassName="HexNode" Name="" IsEnabled="true" ControlType="ControlType.Custom" AutomationId="AID_HexMenuItemGigapanWTC"/>
+
+  <!-- Whiteboard Childs-->
+      <!-- None as of now-->
+  
+  <!-- Live Sources Childs-->
+  <UIElement ClassName="HexNode" Name="" IsEnabled="true" ControlType="ControlType.Custom" AutomationId="AID_HexMenuItemLiveSourceExample"/>
+  <UIElement ClassName="HexNode" Name="" IsEnabled="true" ControlType="ControlType.Custom" AutomationId="AID_HexMenuItemInteractiveSourceExample"/>
+
+  <!-- Exit Childs-->
+  <UIElement ClassName="HexNode" Name="" IsEnabled="true" ControlType="ControlType.Custom" AutomationId="AID_HexMenuItemProjects"/>
+  <UIElement ClassName="HexNode" Name="" IsEnabled="true" ControlType="ControlType.Custom" AutomationId="AID_HexMenuItemLogout"/>
+
+  <!-- Tools Childs-->
+  <UIElement ClassName="HexNode" Name="" IsEnabled="true" ControlType="ControlType.Custom" AutomationId="AID_HexMenuItemAddText"/>
+  <UIElement ClassName="HexNode" Name="" IsEnabled="true" ControlType="ControlType.Custom" AutomationId="AID_HexMenuItemWhiteBoard"/>
+  <UIElement ClassName="HexNode" Name="" IsEnabled="true" ControlType="ControlType.Custom" AutomationId="AID_HexMenuItemTakeSnapshot"/>
+  <UIElement ClassName="HexNode" Name="" IsEnabled="true" ControlType="ControlType.Custom" AutomationId="AID_HexMenuItemStickyNote"/>      
+ 
+</UIElement>

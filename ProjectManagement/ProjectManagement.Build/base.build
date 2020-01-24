@@ -1,0 +1,81 @@
+<project name="ProjectManagement" basedir="." default="Build" xmlns="http://nant.sf.net/schemas/nant.xsd">
+	<property name="build.dir" value="${project::get-base-directory()}" />
+	<property name="msbuild.exe" value="C:\Program Files (x86)\MSBuild\14.0\Bin\MSBuild.exe" />	
+	<property name="svn.exe" value="C:\Program Files\TortoiseSVN\bin\svn.exe" />	
+	<property name="nodejs" value="C:\Program Files\nodejs\nodevars.bat" />	
+
+	<target name="Initialize">
+		<property name="Configuration" value="release" />
+		<property name="build.output.flag" value="1" />
+		<property name="server.name" value="${environment::get-machine-name()}" />
+		<property name="build.log" value="build.log" />
+		<property name="src.dir" value="${directory::get-parent-directory(build.dir)}" />
+		<property name="sln.dir" value="${path::combine(src.dir,'Solutions')}" />
+		<property name="build.out.dir" value="${path::combine(build.dir,'deployment')}" />
+		<property name="pkg.dir" value="${path::combine(build.dir,'package')}" />
+		<property name="pkg.project.management.api.dir" value="${path::combine(pkg.dir,'ProjectManagement')}" />
+		<property name="pkg.project.management.spa.dir" value="${path::combine(pkg.dir,'ProjectManagement.SPA')}" />
+	</target>	
+
+	<target name="GetSource" description="Gets the latest source for the project.">
+		<echo message="================================================" />
+		<echo message="Getting Latest Project Management files from GitHub" />
+		<echo message="================================================" />
+		<exec program="cmd" commandline="/c git pull" workingdir="${src.dir}" />
+	</target>
+
+	<target name="Compile" desciption="Starts Compiling.">		
+		<echo message="================================================" />
+		<echo message="Clean Build Output Path" />
+		<echo message="================================================" />
+		<delete dir="${build.out.dir}" />
+
+		<property name="build.exe.param" value="/v:q /nologo /t:clean,build /fl /flp:LogFile=${build.log} /p:Configuration=${Configuration};PlatformTarget=AnyCPU"/>
+		<property name="build.exe.param.ext" value=";OutDir=bin\Debug" if="${build.output.flag=='1'}" />
+
+		<echo message="================================================" />
+		<echo message="Building ProjectManagement API Project" />
+		<echo message="================================================" />
+		<property name="build.exe.param.ext" value=";OutDir=${build.out.dir}\ProjectManagement\" if="${build.output.flag=='1'}" />		
+		<exec program="${msbuild.exe}" commandline="&quot;${src.dir}\ProjectManagement.sln&quot; ${build.exe.param}${build.exe.param.ext}" />
+
+		<echo message="================================================" />
+		<echo message="Building ProjectManagement SPA Project" />
+		<echo message="================================================" />
+		<property name="build.exe.param.ext" value="--prod" />		
+
+		<exec program="cmd" commandline="/c &quot;${src.dir}\ProjectManagement.Build\ng-build.bat&quot;" workingdir="${src.dir}\ProjectManagement.Build" />
+		
+	</target>
+
+	<target name="Package" desciption="Starts Packaging.">
+		<echo message="================================================" />
+		<echo message="Creating Package." />
+		<echo message="================================================" />
+		<delete dir="${pkg.dir}" />
+		<mkdir dir="${pkg.dir}" />
+
+		<property name="pkg.pub.project.management.api.dir" value="${path::combine(build.out.dir,'ProjectManagement\_PublishedWebsites\ProjectManagement')}"/>
+		<echo message="================================================" />
+		<echo message="Package Project Management API: ${pkg.project.management.api.dir}" />
+		<echo message="================================================" />
+		<move includeemptydirs="true" todir="${pkg.project.management.api.dir}">
+			<fileset basedir="${pkg.pub.project.management.api.dir}">
+				<include name="**/*" />
+			</fileset>
+		</move>	
+
+		<property name="pkg.pub.project.management.spa.dir" value="${path::combine(build.out.dir,'ProjectManagement.SPA\dist')}"/>
+		<echo message="================================================" />
+		<echo message="Package Project Management SPA: ${pkg.project.management.spa.dir}" />
+		<echo message="================================================" />
+		<move includeemptydirs="true" todir="${pkg.project.management.spa.dir}">
+			<fileset basedir="${pkg.pub.project.management.spa.dir}">
+				<include name="**/*" />
+			</fileset>
+		</move>			
+	</target>	
+
+	<target name="Build" depends="Initialize,Compile,Package" />
+	<target name="BuildAndPackage" depends="Initialize,GetSource,Compile,Package" />
+</project>

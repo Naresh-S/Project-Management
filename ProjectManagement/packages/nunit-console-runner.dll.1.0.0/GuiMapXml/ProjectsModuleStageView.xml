@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UIElement AutomationId="AID_ProjectsModuleStageView" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="StageView">
+  <UIElement AutomationId="AID_StageViewLogo" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+  <UIElement AutomationId="AID_StageViewLyncButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+</UIElement>

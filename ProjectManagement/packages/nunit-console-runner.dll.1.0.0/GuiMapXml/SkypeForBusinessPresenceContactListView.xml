@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UIElement AutomationId="AID_PresenceContactListView" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="PresenceContactListView">
+  <UIElement AutomationId="AID_PresenceContactListViewTbSearch" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="TouchTextBox">
+    <UIElement AutomationId="AID_TouchTexBoxViewInputTextBox" ControlType="ControlType.Edit" IsEnabled="true" Name="" ClassName="TextBox">
+      <UIElement AutomationId="VerticalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+      <UIElement AutomationId="HorizontalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+    </UIElement>
+    <UIElement AutomationId="UserMessage" ControlType="ControlType.Text" IsEnabled="true" Name="Search Contacts" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_PresenceContactListViewLetterFilterArea" ControlType="ControlType.List" IsEnabled="true" Name="" ClassName="ListBox">
+    <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="PresenceModule.ViewModels.SearchLetter" ClassName="ListBoxItem">
+      <UIElement AutomationId="AID_PresenceContactListViewListDisplay" ControlType="ControlType.Text" IsEnabled="true" Name="All" ClassName="TextBlock" />
+    </UIElement>
+    <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="PresenceModule.ViewModels.SearchLetter" ClassName="ListBoxItem">
+      <UIElement AutomationId="AID_PresenceContactListViewListDisplay" ControlType="ControlType.Text" IsEnabled="true" Name="A" ClassName="TextBlock" />
+    </UIElement>
+    <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="PresenceModule.ViewModels.SearchLetter" ClassName="ListBoxItem">
+      <UIElement AutomationId="AID_PresenceContactListViewListDisplay" ControlType="ControlType.Text" IsEnabled="true" Name="B" ClassName="TextBlock" />
+    </UIElement>
+    <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="PresenceModule.ViewModels.SearchLetter" ClassName="ListBoxItem">
+      <UIElement AutomationId="AID_PresenceContactListViewListDisplay" ControlType="ControlType.Text" IsEnabled="true" Name="C" ClassName="TextBlock" />
+    </UIElement>
+    <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="PresenceModule.ViewModels.SearchLetter" ClassName="ListBoxItem">
+      <UIElement AutomationId="AID_PresenceContactListViewListDisplay" ControlType="ControlType.Text" IsEnabled="true" Name="D" ClassName="TextBlock" />
+    </UIElement>
+    <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="PresenceModule.ViewModels.SearchLetter" ClassName="ListBoxItem">
+      <UIElement AutomationId="AID_PresenceContactListViewListDisplay" ControlType="ControlType.Text" IsEnabled="true" Name="E" ClassName="TextBlock" />
+    </UIElement>
+    <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="PresenceModule.ViewModels.SearchLetter" ClassName="ListBoxItem">
+      <UIElement AutomationId="AID_PresenceContactListViewListDisplay" ControlType="ControlType.Text" IsEnabled="true" Name="F" ClassName="TextBlock" />
+    </UIElement>
+    <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="PresenceModule.ViewModels.SearchLetter" ClassName="ListBoxItem">
+      <UIElement AutomationId="AID_PresenceContactListViewListDisplay" ControlType="ControlType.Text" IsEnabled="true" Name="G" ClassName="TextBlock" />
+    </UIElement>
+    <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="PresenceModule.ViewModels.SearchLetter" ClassName="ListBoxItem">
+      <UIElement AutomationId="AID_PresenceContactListViewListDisplay" ControlType="ControlType.Text" IsEnabled="true" Name="H" ClassName="TextBlock" />
+    </UIElement>
+    <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="PresenceModule.ViewModels.SearchLetter" ClassName="ListBoxItem">
+      <UIElement AutomationId="AID_PresenceContactListViewListDisplay" ControlType="ControlType.Text" IsEnabled="true" Name="I" ClassName="TextBlock" />
+    </UIElement>
+    <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="PresenceModule.ViewModels.SearchLetter" ClassName="ListBoxItem">
+      <UIElement AutomationId="AID_PresenceContactListViewListDisplay" ControlType="ControlType.Text" IsEnabled="true" Name="J" ClassName="TextBlock" />
+    </UIElement>
+    <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="PresenceModule.ViewModels.SearchLetter" ClassName="ListBoxItem">
+      <UIElement AutomationId="AID_PresenceContactListViewListDisplay" ControlType="ControlType.Text" IsEnabled="true" Name="K" ClassName="TextBlock" />
+    </UIElement>
+    <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="PresenceModule.ViewModels.SearchLetter" ClassName="ListBoxItem">
+      <UIElement AutomationId="AID_PresenceContactListViewListDisplay" ControlType="ControlType.Text" IsEnabled="true" Name="L" ClassName="TextBlock" />
+    </UIElement>
+    <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="PresenceModule.ViewModels.SearchLetter" ClassName="ListBoxItem">
+      <UIElement AutomationId="AID_PresenceContactListViewListDisplay" ControlType="ControlType.Text" IsEnabled="true" Name="M" ClassName="TextBlock" />
+    </UIElement>
+    <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="PresenceModule.ViewModels.SearchLetter" ClassName="ListBoxItem">
+      <UIElement AutomationId="AID_PresenceContactListViewListDisplay" ControlType="ControlType.Text" IsEnabled="true" Name="N" ClassName="TextBlock" />
+    </UIElement>
+    <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="PresenceModule.ViewModels.SearchLetter" ClassName="ListBoxItem">
+      <UIElement AutomationId="AID_PresenceContactListViewListDisplay" ControlType="ControlType.Text" IsEnabled="true" Name="O" ClassName="TextBlock" />
+    </UIElement>
+    <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="PresenceModule.ViewModels.SearchLetter" ClassName="ListBoxItem">
+      <UIElement AutomationId="AID_PresenceContactListViewListDisplay" ControlType="ControlType.Text" IsEnabled="true" Name="P" ClassName="TextBlock" />
+    </UIElement>
+    <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="PresenceModule.ViewModels.SearchLetter" ClassName="ListBoxItem">
+      <UIElement AutomationId="AID_PresenceContactListViewListDisplay" ControlType="ControlType.Text" IsEnabled="true" Name="Q" ClassName="TextBlock" />
+    </UIElement>
+    <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="PresenceModule.ViewModels.SearchLetter" ClassName="ListBoxItem">
+      <UIElement AutomationId="AID_PresenceContactListViewListDisplay" ControlType="ControlType.Text" IsEnabled="true" Name="R" ClassName="TextBlock" />
+    </UIElement>
+    <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="PresenceModule.ViewModels.SearchLetter" ClassName="ListBoxItem">
+      <UIElement AutomationId="AID_PresenceContactListViewListDisplay" ControlType="ControlType.Text" IsEnabled="true" Name="S" ClassName="TextBlock" />
+    </UIElement>
+    <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="PresenceModule.ViewModels.SearchLetter" ClassName="ListBoxItem">
+      <UIElement AutomationId="AID_PresenceContactListViewListDisplay" ControlType="ControlType.Text" IsEnabled="true" Name="T" ClassName="TextBlock" />
+    </UIElement>
+    <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="PresenceModule.ViewModels.SearchLetter" ClassName="ListBoxItem">
+      <UIElement AutomationId="AID_PresenceContactListViewListDisplay" ControlType="ControlType.Text" IsEnabled="true" Name="U" ClassName="TextBlock" />
+    </UIElement>
+    <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="PresenceModule.ViewModels.SearchLetter" ClassName="ListBoxItem">
+      <UIElement AutomationId="AID_PresenceContactListViewListDisplay" ControlType="ControlType.Text" IsEnabled="true" Name="V" ClassName="TextBlock" />
+    </UIElement>
+    <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="PresenceModule.ViewModels.SearchLetter" ClassName="ListBoxItem">
+      <UIElement AutomationId="AID_PresenceContactListViewListDisplay" ControlType="ControlType.Text" IsEnabled="true" Name="W" ClassName="TextBlock" />
+    </UIElement>
+    <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="PresenceModule.ViewModels.SearchLetter" ClassName="ListBoxItem">
+      <UIElement AutomationId="AID_PresenceContactListViewListDisplay" ControlType="ControlType.Text" IsEnabled="true" Name="X" ClassName="TextBlock" />
+    </UIElement>
+    <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="PresenceModule.ViewModels.SearchLetter" ClassName="ListBoxItem">
+      <UIElement AutomationId="AID_PresenceContactListViewListDisplay" ControlType="ControlType.Text" IsEnabled="true" Name="Y" ClassName="TextBlock" />
+    </UIElement>
+    <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="PresenceModule.ViewModels.SearchLetter" ClassName="ListBoxItem">
+      <UIElement AutomationId="AID_PresenceContactListViewListDisplay" ControlType="ControlType.Text" IsEnabled="true" Name="Z" ClassName="TextBlock" />
+    </UIElement>
+  </UIElement>
+  <UIElement AutomationId="AID_PresenceContactListViewLabelNoContacts" ControlType="ControlType.Text" IsEnabled="true" Name="No contacts were found." ClassName="TextBlock" />
+  <UIElement AutomationId="AID_PresenceContactListViewContactcListBox" ControlType="ControlType.List" IsEnabled="true" Name="" ClassName="ListBox">
+    <UIElement AutomationId="" ControlType="ControlType.Group" IsEnabled="true" Name="Other Contacts" ClassName="GroupItem">
+      <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="PresenceModule.ViewModels.PresenceUserViewModel" ClassName="ListBoxItem">
+        <UIElement AutomationId="AID_PresenceContactListViewBtnContact" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button">
+          <UIElement AutomationId="AID_PresenceContactListViewTbFullName" ControlType="ControlType.Text" IsEnabled="true" Name="Kevin Hohnbaum" ClassName="TextBlock" />
+          <UIElement AutomationId="AID_PresenceContactListViewTbPersonalNote" ControlType="ControlType.Text" IsEnabled="true" Name="" ClassName="TextBlock" />
+          <UIElement AutomationId="AID_PresenceContactListViewTvActivity" ControlType="ControlType.Text" IsEnabled="true" Name="Offline" ClassName="TextBlock" />
+        </UIElement>
+        <UIElement AutomationId="AID_PresenceContactListViewContactControlButtons" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button">
+          <UIElement AutomationId="AID_PresenceContactListViewBeginShareBroadcastConversationButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+          <UIElement AutomationId="AID_PresenceContactListViewBeginAudioConversationButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+          <UIElement AutomationId="AID_PresenceContactListViewBeginVideoConversationButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+          <UIElement AutomationId="AID_PresenceContactListViewBeginTextConversationButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+          <UIElement AutomationId="AID_PresenceContactListViewToggleParticipantMuteButton" ControlType="ControlType.Button" IsEnabled="false" Name="" ClassName="Button" />
+          <UIElement AutomationId="AID_PresenceContactListViewAddToCurrentConversationButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+        </UIElement>
+      </UIElement>
+      <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="PresenceModule.ViewModels.PresenceUserViewModel" ClassName="ListBoxItem">
+        <UIElement AutomationId="AID_PresenceContactListViewBtnContact" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button">
+          <UIElement AutomationId="AID_PresenceContactListViewTbFullName" ControlType="ControlType.Text" IsEnabled="true" Name="Prakash P" ClassName="TextBlock" />
+          <UIElement AutomationId="AID_PresenceContactListViewTbPersonalNote" ControlType="ControlType.Text" IsEnabled="true" Name="" ClassName="TextBlock" />
+          <UIElement AutomationId="AID_PresenceContactListViewTvActivity" ControlType="ControlType.Text" IsEnabled="true" Name="Offline" ClassName="TextBlock" />
+        </UIElement>
+        <UIElement AutomationId="AID_PresenceContactListViewContactControlButtons" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button">
+          <UIElement AutomationId="AID_PresenceContactListViewBeginShareBroadcastConversationButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+          <UIElement AutomationId="AID_PresenceContactListViewBeginAudioConversationButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+          <UIElement AutomationId="AID_PresenceContactListViewBeginVideoConversationButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+          <UIElement AutomationId="AID_PresenceContactListViewBeginTextConversationButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+          <UIElement AutomationId="AID_PresenceContactListViewToggleParticipantMuteButton" ControlType="ControlType.Button" IsEnabled="false" Name="" ClassName="Button" />
+          <UIElement AutomationId="AID_PresenceContactListViewAddToCurrentConversationButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+        </UIElement>
+      </UIElement>
+      <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="PresenceModule.ViewModels.PresenceUserViewModel" ClassName="ListBoxItem">
+        <UIElement AutomationId="AID_PresenceContactListViewBtnContact" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button">
+          <UIElement AutomationId="AID_PresenceContactListViewTbFullName" ControlType="ControlType.Text" IsEnabled="true" Name="Venkatesan Ramamoorthy" ClassName="TextBlock" />
+          <UIElement AutomationId="AID_PresenceContactListViewTbPersonalNote" ControlType="ControlType.Text" IsEnabled="true" Name="" ClassName="TextBlock" />
+          <UIElement AutomationId="AID_PresenceContactListViewTvActivity" ControlType="ControlType.Text" IsEnabled="true" Name="Offline" ClassName="TextBlock" />
+        </UIElement>
+        <UIElement AutomationId="AID_PresenceContactListViewContactControlButtons" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button">
+          <UIElement AutomationId="AID_PresenceContactListViewBeginShareBroadcastConversationButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+          <UIElement AutomationId="AID_PresenceContactListViewBeginAudioConversationButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+          <UIElement AutomationId="AID_PresenceContactListViewBeginVideoConversationButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+          <UIElement AutomationId="AID_PresenceContactListViewBeginTextConversationButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+          <UIElement AutomationId="AID_PresenceContactListViewToggleParticipantMuteButton" ControlType="ControlType.Button" IsEnabled="false" Name="" ClassName="Button" />
+          <UIElement AutomationId="AID_PresenceContactListViewAddToCurrentConversationButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+        </UIElement>
+      </UIElement>
+    </UIElement>
+    <UIElement AutomationId="" ControlType="ControlType.Group" IsEnabled="true" Name="Prysm" ClassName="GroupItem">
+      <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="PresenceModule.ViewModels.PresenceUserViewModel" ClassName="ListBoxItem">
+        <UIElement AutomationId="AID_PresenceContactListViewBtnContact" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button">
+          <UIElement AutomationId="AID_PresenceContactListViewTbFullName" ControlType="ControlType.Text" IsEnabled="true" Name="Chennakesha Babu" ClassName="TextBlock" />
+          <UIElement AutomationId="AID_PresenceContactListViewTbPersonalNote" ControlType="ControlType.Text" IsEnabled="true" Name="" ClassName="TextBlock" />
+          <UIElement AutomationId="AID_PresenceContactListViewTvActivity" ControlType="ControlType.Text" IsEnabled="true" Name="Offline" ClassName="TextBlock" />
+        </UIElement>
+        <UIElement AutomationId="AID_PresenceContactListViewContactControlButtons" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button">
+          <UIElement AutomationId="AID_PresenceContactListViewBeginShareBroadcastConversationButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+          <UIElement AutomationId="AID_PresenceContactListViewBeginAudioConversationButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+          <UIElement AutomationId="AID_PresenceContactListViewBeginVideoConversationButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+          <UIElement AutomationId="AID_PresenceContactListViewBeginTextConversationButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+          <UIElement AutomationId="AID_PresenceContactListViewToggleParticipantMuteButton" ControlType="ControlType.Button" IsEnabled="false" Name="" ClassName="Button" />
+          <UIElement AutomationId="AID_PresenceContactListViewAddToCurrentConversationButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+        </UIElement>
+      </UIElement>
+      <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="PresenceModule.ViewModels.PresenceUserViewModel" ClassName="ListBoxItem">
+        <UIElement AutomationId="AID_PresenceContactListViewBtnContact" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button">
+          <UIElement AutomationId="AID_PresenceContactListViewTbFullName" ControlType="ControlType.Text" IsEnabled="true" Name="Nishan Vijay Maddur" ClassName="TextBlock" />
+          <UIElement AutomationId="AID_PresenceContactListViewTbPersonalNote" ControlType="ControlType.Text" IsEnabled="true" Name="" ClassName="TextBlock" />
+          <UIElement AutomationId="AID_PresenceContactListViewTvActivity" ControlType="ControlType.Text" IsEnabled="true" Name="Offline" ClassName="TextBlock" />
+        </UIElement>
+        <UIElement AutomationId="AID_PresenceContactListViewContactControlButtons" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button">
+          <UIElement AutomationId="AID_PresenceContactListViewBeginShareBroadcastConversationButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+          <UIElement AutomationId="AID_PresenceContactListViewBeginAudioConversationButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+          <UIElement AutomationId="AID_PresenceContactListViewBeginVideoConversationButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+          <UIElement AutomationId="AID_PresenceContactListViewBeginTextConversationButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+          <UIElement AutomationId="AID_PresenceContactListViewToggleParticipantMuteButton" ControlType="ControlType.Button" IsEnabled="false" Name="" ClassName="Button" />
+          <UIElement AutomationId="AID_PresenceContactListViewAddToCurrentConversationButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+        </UIElement>
+      </UIElement>
+      <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="PresenceModule.ViewModels.PresenceUserViewModel" ClassName="ListBoxItem">
+        <UIElement AutomationId="AID_PresenceContactListViewBtnContact" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button">
+          <UIElement AutomationId="AID_PresenceContactListViewTbFullName" ControlType="ControlType.Text" IsEnabled="true" Name="Pavan M Kumar" ClassName="TextBlock" />
+          <UIElement AutomationId="AID_PresenceContactListViewTbPersonalNote" ControlType="ControlType.Text" IsEnabled="true" Name="" ClassName="TextBlock" />
+          <UIElement AutomationId="AID_PresenceContactListViewTvActivity" ControlType="ControlType.Text" IsEnabled="true" Name="Offline" ClassName="TextBlock" />
+        </UIElement>
+        <UIElement AutomationId="AID_PresenceContactListViewContactControlButtons" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button">
+          <UIElement AutomationId="AID_PresenceContactListViewBeginShareBroadcastConversationButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+          <UIElement AutomationId="AID_PresenceContactListViewBeginAudioConversationButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+          <UIElement AutomationId="AID_PresenceContactListViewBeginVideoConversationButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+          <UIElement AutomationId="AID_PresenceContactListViewBeginTextConversationButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+          <UIElement AutomationId="AID_PresenceContactListViewToggleParticipantMuteButton" ControlType="ControlType.Button" IsEnabled="false" Name="" ClassName="Button" />
+          <UIElement AutomationId="AID_PresenceContactListViewAddToCurrentConversationButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+        </UIElement>
+      </UIElement>
+      <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="PresenceModule.ViewModels.PresenceUserViewModel" ClassName="ListBoxItem">
+        <UIElement AutomationId="AID_PresenceContactListViewBtnContact" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button">
+          <UIElement AutomationId="AID_PresenceContactListViewTbFullName" ControlType="ControlType.Text" IsEnabled="true" Name="Praveen Nagaraj" ClassName="TextBlock" />
+          <UIElement AutomationId="AID_PresenceContactListViewTbPersonalNote" ControlType="ControlType.Text" IsEnabled="true" Name="" ClassName="TextBlock" />
+          <UIElement AutomationId="AID_PresenceContactListViewTvActivity" ControlType="ControlType.Text" IsEnabled="true" Name="Available" ClassName="TextBlock" />
+        </UIElement>
+        <UIElement AutomationId="AID_PresenceContactListViewContactControlButtons" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button">
+          <UIElement AutomationId="AID_PresenceContactListViewBeginShareBroadcastConversationButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+          <UIElement AutomationId="AID_PresenceContactListViewBeginAudioConversationButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+          <UIElement AutomationId="AID_PresenceContactListViewBeginVideoConversationButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+          <UIElement AutomationId="AID_PresenceContactListViewBeginTextConversationButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+          <UIElement AutomationId="AID_PresenceContactListViewToggleParticipantMuteButton" ControlType="ControlType.Button" IsEnabled="false" Name="" ClassName="Button" />
+          <UIElement AutomationId="AID_PresenceContactListViewAddToCurrentConversationButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+        </UIElement>
+      </UIElement>
+      <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="PresenceModule.ViewModels.PresenceUserViewModel" ClassName="ListBoxItem">
+        <UIElement AutomationId="AID_PresenceContactListViewBtnContact" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button">
+          <UIElement AutomationId="AID_PresenceContactListViewTbFullName" ControlType="ControlType.Text" IsEnabled="true" Name="Ramakrishna Kolli" ClassName="TextBlock" />
+          <UIElement AutomationId="AID_PresenceContactListViewTbPersonalNote" ControlType="ControlType.Text" IsEnabled="true" Name="" ClassName="TextBlock" />
+          <UIElement AutomationId="AID_PresenceContactListViewTvActivity" ControlType="ControlType.Text" IsEnabled="true" Name="Presenting" ClassName="TextBlock" />
+        </UIElement>
+        <UIElement AutomationId="AID_PresenceContactListViewContactControlButtons" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button">
+          <UIElement AutomationId="AID_PresenceContactListViewBeginShareBroadcastConversationButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+          <UIElement AutomationId="AID_PresenceContactListViewBeginAudioConversationButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+          <UIElement AutomationId="AID_PresenceContactListViewBeginVideoConversationButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+          <UIElement AutomationId="AID_PresenceContactListViewBeginTextConversationButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+          <UIElement AutomationId="AID_PresenceContactListViewToggleParticipantMuteButton" ControlType="ControlType.Button" IsEnabled="false" Name="" ClassName="Button" />
+          <UIElement AutomationId="AID_PresenceContactListViewAddToCurrentConversationButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+        </UIElement>
+      </UIElement>
+      <UIElement AutomationId="" ControlType="ControlType.ListItem" IsEnabled="true" Name="PresenceModule.ViewModels.PresenceUserViewModel" ClassName="ListBoxItem">
+        <UIElement AutomationId="AID_PresenceContactListViewBtnContact" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button">
+          <UIElement AutomationId="AID_PresenceContactListViewTbFullName" ControlType="ControlType.Text" IsEnabled="true" Name="Varun Tiwari" ClassName="TextBlock" />
+          <UIElement AutomationId="AID_PresenceContactListViewTbPersonalNote" ControlType="ControlType.Text" IsEnabled="true" Name="" ClassName="TextBlock" />
+          <UIElement AutomationId="AID_PresenceContactListViewTvActivity" ControlType="ControlType.Text" IsEnabled="true" Name="Offline" ClassName="TextBlock" />
+        </UIElement>
+        <UIElement AutomationId="AID_PresenceContactListViewContactControlButtons" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button">
+          <UIElement AutomationId="AID_PresenceContactListViewBeginShareBroadcastConversationButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+          <UIElement AutomationId="AID_PresenceContactListViewBeginAudioConversationButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+          <UIElement AutomationId="AID_PresenceContactListViewBeginVideoConversationButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+          <UIElement AutomationId="AID_PresenceContactListViewBeginTextConversationButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+          <UIElement AutomationId="AID_PresenceContactListViewToggleParticipantMuteButton" ControlType="ControlType.Button" IsEnabled="false" Name="" ClassName="Button" />
+          <UIElement AutomationId="AID_PresenceContactListViewAddToCurrentConversationButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+        </UIElement>
+      </UIElement>
+    </UIElement>
+  </UIElement>
+  <UIElement AutomationId="AID_PresenceContactListViewBusyProgressBar" ControlType="ControlType.ProgressBar" IsEnabled="true" Name="" ClassName="ProgressBar" />
+</UIElement>

@@ -1,0 +1,31 @@
+.form-control{
+    width: 350px;
+    display: inline;
+    margin-right: 5px;
+}
+.row{
+    margin-top: 5px;
+}
+.btn btn-primary
+{
+padding-right: 10px;
+}
+.error {
+    color: red;    
+    font-size: 12px;
+    font-style: italic;
+}
+
+.wrapper {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.modal-header {
+  background: #337ab7;
+}
+.modal-body {
+  height: 200px;
+  flex: 1;
+  overflow: auto; 
+}

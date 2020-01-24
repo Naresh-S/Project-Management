@@ -1,0 +1,298 @@
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\ApplicationInsights.config
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\roslyn\csc.exe
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\roslyn\vbc.exe
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\roslyn\VBCSCompiler.exe
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\ProjectManagement.dll.config
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\ProjectManagement.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\ProjectManagement.pdb
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\Antlr3.Runtime.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\EntityFramework.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\EntityFramework.SqlServer.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\Microsoft.AI.DependencyCollector.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\Microsoft.AI.Web.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\Microsoft.AI.WindowsServer.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\Microsoft.ApplicationInsights.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.Security.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.Security.Google.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\Microsoft.Web.Infrastructure.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\Newtonsoft.Json.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\nunit.framework.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\Owin.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\ProjectManagement.DAL.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\System.Net.Http.Formatting.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\System.Web.Cors.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\System.Web.Helpers.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\System.Web.Http.Cors.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\System.Web.Http.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\System.Web.Http.Owin.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\System.Web.Http.WebHost.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\System.Web.Mvc.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\System.Web.Optimization.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\System.Web.Razor.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\System.Web.WebPages.Deployment.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\System.Web.WebPages.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\System.Web.WebPages.Razor.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\WebGrease.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\ProjectManagement.DAL.pdb
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\Microsoft.AI.DependencyCollector.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\Microsoft.AI.Web.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\Microsoft.AI.WindowsServer.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\Microsoft.ApplicationInsights.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\nunit.framework.pdb
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\nunit.framework.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\System.Net.Http.Formatting.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\System.Web.Http.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\System.Web.Http.Cors.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\Newtonsoft.Json.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\System.Web.Helpers.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\System.Web.Http.WebHost.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\System.Web.Mvc.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\System.Web.Optimization.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\System.Web.Razor.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\System.Web.WebPages.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\System.Web.WebPages.Deployment.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\System.Web.WebPages.Razor.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\Antlr3.Runtime.pdb
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\EntityFramework.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\EntityFramework.SqlServer.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.Security.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.Security.Google.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\bin\System.Web.Http.Owin.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\obj\Debug\ProjectManagement.csprojResolveAssemblyReference.cache
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\obj\Debug\ProjectManagement.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement\obj\Debug\ProjectManagement.pdb
+C:\ProjectManagement\ProjectManagement\bin\ApplicationInsights.config
+C:\ProjectManagement\ProjectManagement\bin\roslyn\csc.exe
+C:\ProjectManagement\ProjectManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\ProjectManagement\ProjectManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\ProjectManagement\ProjectManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\ProjectManagement\ProjectManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\ProjectManagement\ProjectManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\ProjectManagement\ProjectManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\ProjectManagement\ProjectManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\ProjectManagement\ProjectManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\ProjectManagement\ProjectManagement\bin\roslyn\vbc.exe
+C:\ProjectManagement\ProjectManagement\bin\roslyn\VBCSCompiler.exe
+C:\ProjectManagement\ProjectManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\ProjectManagement\ProjectManagement\bin\ProjectManagement.dll.config
+C:\ProjectManagement\ProjectManagement\bin\ProjectManagement.dll
+C:\ProjectManagement\ProjectManagement\bin\ProjectManagement.pdb
+C:\ProjectManagement\ProjectManagement\bin\Antlr3.Runtime.dll
+C:\ProjectManagement\ProjectManagement\bin\EntityFramework.dll
+C:\ProjectManagement\ProjectManagement\bin\EntityFramework.SqlServer.dll
+C:\ProjectManagement\ProjectManagement\bin\Microsoft.AI.Agent.Intercept.dll
+C:\ProjectManagement\ProjectManagement\bin\Microsoft.AI.DependencyCollector.dll
+C:\ProjectManagement\ProjectManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\ProjectManagement\ProjectManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\ProjectManagement\ProjectManagement\bin\Microsoft.AI.Web.dll
+C:\ProjectManagement\ProjectManagement\bin\Microsoft.AI.WindowsServer.dll
+C:\ProjectManagement\ProjectManagement\bin\Microsoft.ApplicationInsights.dll
+C:\ProjectManagement\ProjectManagement\bin\Microsoft.AspNet.Identity.Core.dll
+C:\ProjectManagement\ProjectManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\ProjectManagement\ProjectManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\ProjectManagement\ProjectManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.dll
+C:\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.Security.Cookies.dll
+C:\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.Security.dll
+C:\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.Security.Facebook.dll
+C:\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.Security.Google.dll
+C:\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.Security.OAuth.dll
+C:\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.Security.Twitter.dll
+C:\ProjectManagement\ProjectManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\ProjectManagement\ProjectManagement\bin\Newtonsoft.Json.dll
+C:\ProjectManagement\ProjectManagement\bin\nunit.framework.dll
+C:\ProjectManagement\ProjectManagement\bin\Owin.dll
+C:\ProjectManagement\ProjectManagement\bin\ProjectManagement.DAL.dll
+C:\ProjectManagement\ProjectManagement\bin\System.Net.Http.Formatting.dll
+C:\ProjectManagement\ProjectManagement\bin\System.Web.Cors.dll
+C:\ProjectManagement\ProjectManagement\bin\System.Web.Helpers.dll
+C:\ProjectManagement\ProjectManagement\bin\System.Web.Http.Cors.dll
+C:\ProjectManagement\ProjectManagement\bin\System.Web.Http.dll
+C:\ProjectManagement\ProjectManagement\bin\System.Web.Http.Owin.dll
+C:\ProjectManagement\ProjectManagement\bin\System.Web.Http.WebHost.dll
+C:\ProjectManagement\ProjectManagement\bin\System.Web.Mvc.dll
+C:\ProjectManagement\ProjectManagement\bin\System.Web.Optimization.dll
+C:\ProjectManagement\ProjectManagement\bin\System.Web.Razor.dll
+C:\ProjectManagement\ProjectManagement\bin\System.Web.WebPages.Deployment.dll
+C:\ProjectManagement\ProjectManagement\bin\System.Web.WebPages.dll
+C:\ProjectManagement\ProjectManagement\bin\System.Web.WebPages.Razor.dll
+C:\ProjectManagement\ProjectManagement\bin\WebGrease.dll
+C:\ProjectManagement\ProjectManagement\bin\ProjectManagement.DAL.pdb
+C:\ProjectManagement\ProjectManagement\bin\ProjectManagement.DAL.dll.config
+C:\ProjectManagement\ProjectManagement\bin\Microsoft.AI.DependencyCollector.xml
+C:\ProjectManagement\ProjectManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\ProjectManagement\ProjectManagement\bin\Microsoft.AI.Web.xml
+C:\ProjectManagement\ProjectManagement\bin\Microsoft.AI.WindowsServer.xml
+C:\ProjectManagement\ProjectManagement\bin\Microsoft.ApplicationInsights.xml
+C:\ProjectManagement\ProjectManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\ProjectManagement\ProjectManagement\bin\nunit.framework.pdb
+C:\ProjectManagement\ProjectManagement\bin\nunit.framework.xml
+C:\ProjectManagement\ProjectManagement\bin\System.Net.Http.Formatting.xml
+C:\ProjectManagement\ProjectManagement\bin\System.Web.Http.xml
+C:\ProjectManagement\ProjectManagement\bin\System.Web.Http.Cors.xml
+C:\ProjectManagement\ProjectManagement\bin\Newtonsoft.Json.xml
+C:\ProjectManagement\ProjectManagement\bin\System.Web.Helpers.xml
+C:\ProjectManagement\ProjectManagement\bin\System.Web.Http.WebHost.xml
+C:\ProjectManagement\ProjectManagement\bin\System.Web.Mvc.xml
+C:\ProjectManagement\ProjectManagement\bin\System.Web.Optimization.xml
+C:\ProjectManagement\ProjectManagement\bin\System.Web.Razor.xml
+C:\ProjectManagement\ProjectManagement\bin\System.Web.WebPages.xml
+C:\ProjectManagement\ProjectManagement\bin\System.Web.WebPages.Deployment.xml
+C:\ProjectManagement\ProjectManagement\bin\System.Web.WebPages.Razor.xml
+C:\ProjectManagement\ProjectManagement\bin\Antlr3.Runtime.pdb
+C:\ProjectManagement\ProjectManagement\bin\EntityFramework.xml
+C:\ProjectManagement\ProjectManagement\bin\EntityFramework.SqlServer.xml
+C:\ProjectManagement\ProjectManagement\bin\Microsoft.AspNet.Identity.Core.xml
+C:\ProjectManagement\ProjectManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\ProjectManagement\ProjectManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.xml
+C:\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.Security.xml
+C:\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.Security.Facebook.xml
+C:\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.Security.Cookies.xml
+C:\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.Security.OAuth.xml
+C:\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.Security.Google.xml
+C:\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.Security.Twitter.xml
+C:\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\ProjectManagement\ProjectManagement\bin\System.Web.Http.Owin.xml
+C:\ProjectManagement\ProjectManagement\obj\Debug\ProjectManagement.csprojResolveAssemblyReference.cache
+C:\ProjectManagement\ProjectManagement\obj\Debug\ProjectManagement.dll
+C:\ProjectManagement\ProjectManagement\obj\Debug\ProjectManagement.pdb
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\ApplicationInsights.config
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\ProjectManagement.dll.config
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\ProjectManagement.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\ProjectManagement.pdb
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\Microsoft.AI.Web.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.Security.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\nunit.framework.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\Owin.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\ProjectManagement.DAL.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\System.Web.Cors.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\System.Web.Http.Cors.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\System.Web.Http.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\System.Web.Http.Owin.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\WebGrease.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\ProjectManagement.DAL.pdb
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\ProjectManagement.DAL.dll.config
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\Microsoft.AI.Web.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\nunit.framework.pdb
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\nunit.framework.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\System.Web.Http.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\System.Web.Http.Cors.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.Security.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\bin\System.Web.Http.Owin.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\obj\Debug\ProjectManagement.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\obj\Debug\ProjectManagement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\obj\Debug\ProjectManagement.csproj.CopyComplete
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\obj\Debug\ProjectManagement.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement\obj\Debug\ProjectManagement.pdb

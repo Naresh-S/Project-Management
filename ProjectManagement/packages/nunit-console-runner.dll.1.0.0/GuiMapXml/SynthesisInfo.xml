@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UIElement AutomationId="AID_SynthesisInfoViewRoot" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl">
+  <UIElement AutomationId="AID_SynthesisInfoViewHeader" ControlType="ControlType.Text" IsEnabled="true" Name="Synthesis Info" ClassName="TextBlock" />
+  <UIElement AutomationId="AID_SynthesisInfoViewVersion" ControlType="ControlType.Text" IsEnabled="true" Name="2.3.0.146" ClassName="TextBlock" />
+  <UIElement AutomationId="AID_SynthesisInfoViewGPUAttriLabel" ControlType="ControlType.Text" IsEnabled="true" Name="GPU Attributes:" ClassName="Text">
+    <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="GPU Attributes:" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_SynthesisInfoViewGPUAttriText" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="TouchTextBox">
+    <UIElement AutomationId="AID_TouchTexBoxViewInputTextBox" ControlType="ControlType.Edit" IsEnabled="true" Name="" ClassName="TextBox">
+      <UIElement AutomationId="VerticalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+      <UIElement AutomationId="HorizontalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="true" Name="" ClassName="ScrollBar" />
+    </UIElement>
+    <UIElement AutomationId="UserMessage" ControlType="ControlType.Text" IsEnabled="true" Name="" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_SynthesisInfoViewScreenSizeLabel" ControlType="ControlType.Text" IsEnabled="true" Name="Screen Size:" ClassName="Text">
+    <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Screen Size:" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_SynthesisInfoViewScreenSizeText" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="TouchTextBox">
+    <UIElement AutomationId="AID_TouchTexBoxViewInputTextBox" ControlType="ControlType.Edit" IsEnabled="true" Name="" ClassName="TextBox">
+      <UIElement AutomationId="VerticalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+      <UIElement AutomationId="HorizontalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+    </UIElement>
+    <UIElement AutomationId="UserMessage" ControlType="ControlType.Text" IsEnabled="true" Name="" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_SynthesisInfoViewMachineKeyLabel" ControlType="ControlType.Text" IsEnabled="true" Name="Machine Key:" ClassName="Text">
+    <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Machine Key:" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_SynthesisInfoViewMachineKeyText" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="TouchTextBox">
+    <UIElement AutomationId="AID_TouchTexBoxViewInputTextBox" ControlType="ControlType.Edit" IsEnabled="true" Name="" ClassName="TextBox">
+      <UIElement AutomationId="VerticalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+      <UIElement AutomationId="HorizontalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+    </UIElement>
+    <UIElement AutomationId="UserMessage" ControlType="ControlType.Text" IsEnabled="true" Name="" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_SynthesisInfoViewCurrentUserIdLabel" ControlType="ControlType.Text" IsEnabled="true" Name="Current UserId: " ClassName="Text">
+    <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Current UserId: " ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_SynthesisInfoViewCurrenUserIdText" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="TouchTextBox">
+    <UIElement AutomationId="AID_TouchTexBoxViewInputTextBox" ControlType="ControlType.Edit" IsEnabled="true" Name="" ClassName="TextBox">
+      <UIElement AutomationId="VerticalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+      <UIElement AutomationId="HorizontalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+    </UIElement>
+    <UIElement AutomationId="UserMessage" ControlType="ControlType.Text" IsEnabled="true" Name="" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_SynthesisInfoViewCurrentProjectIdLabel" ControlType="ControlType.Text" IsEnabled="true" Name="Current ProjectId:" ClassName="Text">
+    <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Current ProjectId:" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_SynthesisInfoViewCurrentProjectIdText" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="TouchTextBox">
+    <UIElement AutomationId="AID_TouchTexBoxViewInputTextBox" ControlType="ControlType.Edit" IsEnabled="true" Name="" ClassName="TextBox">
+      <UIElement AutomationId="VerticalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+      <UIElement AutomationId="HorizontalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+    </UIElement>
+    <UIElement AutomationId="UserMessage" ControlType="ControlType.Text" IsEnabled="true" Name="" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_SynthesisInfoViewCurrentWorkspaceIdLabel" ControlType="ControlType.Text" IsEnabled="true" Name="Current WorkspaceId:" ClassName="Text">
+    <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Current WorkspaceId:" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_SynthesisInfoViewCurrentWorkspaceIdText" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="TouchTextBox">
+    <UIElement AutomationId="AID_TouchTexBoxViewInputTextBox" ControlType="ControlType.Edit" IsEnabled="true" Name="" ClassName="TextBox">
+      <UIElement AutomationId="VerticalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+      <UIElement AutomationId="HorizontalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+    </UIElement>
+    <UIElement AutomationId="UserMessage" ControlType="ControlType.Text" IsEnabled="true" Name="" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_SynthesisInfoViewSendLogsBtn" ControlType="ControlType.Custom" IsEnabled="false" Name="" ClassName="TextButton">
+    <UIElement AutomationId="" ControlType="ControlType.Custom" IsEnabled="false" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_TextButtonViewText" ControlType="ControlType.Text" IsEnabled="false" Name="Send Logs" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_SynthesisInfoViewCloseBtn" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="TextButton">
+    <UIElement AutomationId="" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+    <UIElement AutomationId="AID_TextButtonViewText" ControlType="ControlType.Text" IsEnabled="true" Name="Close" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_SynthesisInfoViewSendLogsText" ControlType="ControlType.Text" IsEnabled="true" Name="Synthesis Logs have been shipped to Support for further analysis. Thank you!" ClassName="TextBlock" />
+</UIElement>

@@ -1,0 +1,243 @@
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\obj\Debug\ProjectManagement.NUnitTests.csprojResolveAssemblyReference.cache
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\ApplicationInsights.config
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\roslyn\csc.exe
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\roslyn\vbc.exe
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\ProjectManagement.Tests.dll.config
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\ProjectManagement.Tests.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\ProjectManagement.Tests.pdb
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\EntityFramework.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\EntityFramework.SqlServer.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\NBench.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\NBench.PerformanceCounters.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\nunit.framework.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\ProjectManagement.DAL.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\ProjectManagement.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Http.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Razor.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\Microsoft.Owin.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\Owin.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Http.Cors.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Http.Owin.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\WebGrease.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Cors.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\Antlr3.Runtime.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\ProjectManagement.pdb
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\EntityFramework.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\EntityFramework.SqlServer.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\nunit.framework.pdb
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\nunit.framework.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\ProjectManagement.DAL.pdb
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Http.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Razor.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\Microsoft.Owin.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Optimization.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Http.Cors.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Http.Owin.xml
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\bin\Debug\Antlr3.Runtime.pdb
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\obj\Debug\ProjectManagement.Tests.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Tests\obj\Debug\ProjectManagement.Tests.pdb
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\ApplicationInsights.config
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\roslyn\csc.exe
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\roslyn\vbc.exe
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\ProjectManagement.Tests.dll.config
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\ProjectManagement.Tests.dll
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\ProjectManagement.Tests.pdb
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\EntityFramework.dll
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\NBench.dll
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\NBench.PerformanceCounters.dll
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\nunit.framework.dll
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\ProjectManagement.DAL.dll
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\ProjectManagement.dll
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Helpers.dll
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Http.dll
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Mvc.dll
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Razor.dll
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.WebPages.dll
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\Microsoft.Owin.dll
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Optimization.dll
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\Owin.dll
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Http.Cors.dll
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Http.Owin.dll
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\WebGrease.dll
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Cors.dll
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\ProjectManagement.pdb
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\ProjectManagement.dll.config
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\EntityFramework.xml
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\nunit.framework.pdb
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\nunit.framework.xml
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\ProjectManagement.DAL.pdb
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\ProjectManagement.DAL.dll.config
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Http.xml
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Helpers.xml
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Mvc.xml
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Razor.xml
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.WebPages.xml
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\Microsoft.Owin.xml
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Optimization.xml
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Http.Cors.xml
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Http.Owin.xml
+C:\ProjectManagement\ProjectManagement.Tests\bin\Debug\Antlr3.Runtime.pdb
+C:\ProjectManagement\ProjectManagement.Tests\obj\Debug\ProjectManagement.NUnitTests.csprojResolveAssemblyReference.cache
+C:\ProjectManagement\ProjectManagement.Tests\obj\Debug\ProjectManagement.Tests.dll
+C:\ProjectManagement\ProjectManagement.Tests\obj\Debug\ProjectManagement.Tests.pdb
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\ProjectManagement.Tests.dll.config
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\ProjectManagement.Tests.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\ProjectManagement.Tests.pdb
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\NBench.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\NBench.PerformanceCounters.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\ProjectManagement.DAL.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\ProjectManagement.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\Owin.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Http.Owin.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\WebGrease.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Cors.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\ProjectManagement.DAL.pdb
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\ProjectManagement.DAL.dll.config
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\ProjectManagement.pdb
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\ProjectManagement.dll.config
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Http.Owin.xml
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\obj\Debug\ProjectManagement.NUnitTests.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\obj\Debug\ProjectManagement.NUnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\obj\Debug\ProjectManagement.NUnitTests.csproj.CopyComplete
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\obj\Debug\ProjectManagement.Tests.dll
+C:\Users\Admin\Desktop\ProjectManagement\ProjectManagement.Tests\obj\Debug\ProjectManagement.Tests.pdb

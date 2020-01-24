@@ -1,0 +1,67 @@
+<div>
+  <form #viewtaskForm="ngForm" (ngSubmit)="submit(viewtaskForm)" name="ngform">
+    <div class="col-md-12">
+      <div class="panel panel-primary">
+        <div class="panel-heading">View Task</div>
+        <div class="panel-body">
+          <div class="form-group">
+            <div class="row" style="padding-bottom: 15px;  border-bottom: 1px dashed blue;">
+              <div class="col-sm-6">
+                <label for="TaskName" class="control-label">Project</label>&nbsp;
+                <input type="text" class="form-control" id="projectname" name="projectname" [(ngModel)]="projectname" required #projectName="ngModel"
+                  minlength="10">
+                  <button type="button" class="btn btn-info" (click)="openModal(template)">Search</button>
+                  <ng-template #template>
+                    <div class="modal-header">
+                      <h4 class="modal-title pull-left">Project Names</h4>
+                      <button type="button" class="close pull-right" aria-label="Close" (click)="modalRef.hide()">      
+                        <span aria-hidden="true">&times;</span></button>
+                    </div>
+                    <div class="modal-body">
+                      <select ng-model="projectName" ng-app (change)="onChange($event)" name="modelpopup">
+                        <option value="" selected disabled hidden>Choose here</option>
+                        <option value="" ></option>
+                     <option *ngFor = "let proj of projects" value={{proj.Project_ID}} >{{proj.ProjectName}}</option>
+                     </select>
+                      <button (click)="modalRef.hide()">OK</button>
+                    </div>
+                  </ng-template>
+              </div>
+              <div class="col-sm-6">
+                <label for="lblSort">Sort By: </label>
+                <button name="StartDate" class="btn btn-primary btn-md" style="width:85px;" id="StartDate" (click)="sort('StartDate')">StartDate
+            </button>&nbsp;
+                <button name="EndDate" class="btn btn-primary btn-md" style="width:85px;" id="EndDate" (click)="sort('EndDate')">EndDate
+            </button>&nbsp;
+                <button name="Priority" class="btn btn-primary btn-md" style="width:85px;" id="Priority" (click)="sort('Priority')">Priority
+            </button>&nbsp;
+                <button name="Completed" class="btn btn-primary btn-md" style="width:85px;" id="Completed" (click)="sort('Completed')">Completed
+            </button></div>
+            </div>
+            <div class="col-sm-12" *ngFor="let tsk of tasks |filter: project_ID">
+              <div class="row">
+                <div class="col-sm-2 pull-left" > Task</div>
+                <div class="col-sm-2 pull-left" style="margin-left: 5px;"> Parent</div>
+                <div class="col-sm-1 pull-left"> Priority</div>
+                <div class="col-sm-2 pull-left"> Start</div>
+                <div class="col-sm-2 pull-left"> End</div>
+                <div class="pull-left"></div>
+              </div>
+              <div class="row" >
+                <div class="col-sm-2 pull-left" style="background-color:lightgray; height: 50px; "> {{tsk.TaskName}}</div>
+                <div class="col-sm-2 pull-left" style="background-color:lightgray; height: 50px;margin-left: 5px;"> {{tsk.ParentTask.Parent_Task}}</div>
+                <div class="col-sm-1 pull-left"> {{tsk.Priority}}</div>
+                <div class="col-sm-2 pull-left"> {{tsk.Start_Date | date:'yyyy-MM-dd'}}</div>
+                <div class="col-sm-2 pull-left"> {{tsk.End_Date | date:'yyyy-MM-dd'}}</div>
+                <div class="pull-left" *ngIf="tsk.Status != 'Completed'">
+                  <button (click)="view(tsk.Task_ID)" class="btn btn-primary btn-md"  name="Edit" id="Edit">  Edit </button> &nbsp;
+                  <button (click)="delete(tsk.Task_ID)" class="btn btn-primary btn-md" name="Delete" id="Delete">  End Task </button></div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </form>
+</div>

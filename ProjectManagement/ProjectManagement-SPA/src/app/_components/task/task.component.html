@@ -1,0 +1,195 @@
+<div>
+  <form #taskForm="ngForm" (ngSubmit)="submit(taskForm)" name="ngform">
+    <div class="col-md-12">
+      <div class="panel panel-primary">
+        <div class="panel-heading">{{title}}</div>
+        <div class="panel-body">
+          <div class="form-group" [class.has-error]="projectName.touched && projectName.invalid">
+            <div class="row">
+              <div class="col-sm-3">
+                <label for="ProjectName" class="control-label">Project: </label>
+              </div>
+              <div class="col-sm-8">
+                <input type="text" placeholder="Select Project" disabled class="form-control" id="ProjectName" name="ProjectName" [(ngModel)]="projectname"
+                  required #projectName="ngModel" minlength="10">
+                  <button type="button" style="width:85px;" class="btn btn-info" (click)="openModal(projecttemplate)" style="width:85px;" name="Search">Search</button>
+                  <ng-template #projecttemplate>
+                    <div class="modal-header">
+                      <h4 class="modal-title pull-left">Project Names</h4>
+                      <button type="button" class="close pull-right" aria-label="Close" (click)="modalRef.hide()" name="Close">      
+                        <span aria-hidden="true">&times;</span></button>
+                    </div>
+                    <div class="modal-body" style="height: 200px;">
+                      <select class="form-control" ng-model="projectList" ng-app [(ngModel)]="project_ID" (change)="onChange($event)" name="projectList">
+                        <option value="" selected disabled hidden>Choose here</option>
+                     <option *ngFor = "let proj of projects" value={{proj.Project_ID}} >{{proj.ProjectName}}</option>
+                     </select>
+                    
+                    </div>  <div class="modal-footer">
+                        <div class="pull-right">
+                          <button class="btn btn-success" (click)="modalRef.hide()">OK</button>
+                        </div>
+                      </div>
+                  </ng-template>
+                  <div *ngIf="projectName.touched && projectName.invalid">
+                    <span class="error" *ngIf="projectName.errors?.required">Name is required</span>
+                  </div>
+              </div>
+            </div>
+          </div>
+          <div class="form-group" [class.has-error]="taskName.touched && taskName.invalid">
+            <div class="row">
+              <div class="col-sm-3">
+                <label for="TaskName" class="control-label">Task: </label>
+              </div>
+              <div class="col-sm-8">
+                <input type="text" placeholder="Enter Task Name" class="form-control" id="TaskName" name="TaskName" [(ngModel)]="taskData.TaskName"
+                  required #taskName="ngModel" minlength="10">
+                  <div *ngIf="taskName.touched && taskName.invalid">
+                    <span class="error" *ngIf="taskName.errors?.required">Name is required</span>
+                    <span class="error" *ngIf="taskName.errors?.minlength">Minimum length is
+                {{taskName.errors.minlength.requiredLength}} </span>
+                  </div>
+              </div>
+            </div>
+          </div>
+          <div class="form-group">
+            <div class="row">
+              <div class="col-sm-3">
+              </div>
+              <div class="col-sm-8">
+                <input id="chkParenttask" type="checkbox" name="chkdate"  #chkEnable ng-model>
+                <label for="chkParenttask">Parent Task</label>
+              </div>
+            </div>
+          </div>
+          <div class="form-group" [class.has-error]="priority.touched && priority.invalid">
+            <div class="row">
+              <div class="col-sm-3">
+                <label for="txtPriority">Priority:</label> </div>
+              <div class="col-sm-8 ">
+                <input id="Priority" [(ngModel)]="taskData.Priority" [disabled]="chkEnable.checked" name="Priority" type="range" min="0"
+                  max="30" class="form-control" step="1" required #priority="ngModel">
+                  <div *ngIf="priority.touched && priority.invalid">
+                    <span class="error" *ngIf="priority.errors?.required">Priority is required</span>
+                  </div>
+              </div>
+            </div>
+          </div>
+          <div class="form-group" [class.has-error]="parenTtask.touched && parenTtask.invalid">
+            <div class="row ">
+              <div class="col-sm-3 ">
+                <label for="Parent_Task">Parent Task:</label>
+              </div>
+              <div class="col-sm-8 ">
+                <input id="Parent_Task" disabled placeholder="Select Parent Task" type="text" class="form-control" name="Parent_Task" [(ngModel)]="parenttask"
+                  required #parenTtask="ngModel">
+                  <button type="button" style="width:85px;" class="btn btn-info" [disabled]="chkEnable.checked" (click)="openModal(Parenttemplate)"
+                    name="Search">Search</button>
+
+                    <ng-template #Parenttemplate class="wrapper">
+                      <div class="modal-header">
+                        <h4 class="modal-title pull-left ">Parent Tasks</h4>
+                        <button type="button" class="close pull-right" aria-label="Close" (click)="modalRef.hide()" name="Close">      
+                        <span aria-hidden="true">&times;</span></button>
+                      </div>
+                      <div class="modal-body" >
+                        
+                        <!--<select ng-model="parentTaskList" ng-app [(ngModel)]="parent_ID" (change)="ontaskChange($event)" class="form-control" name="parentTaskList">
+                      <option value="" selected disabled hidden>Choose here</option>
+                     <option *ngFor = "let parenttask of parenttasks" value={{parenttask.Parent_ID}} >{{parenttask.Parent_Task}}</option>
+                     </select>-->
+
+                     <ngx-select-dropdown [config]="config" [options]="parenttasks" (change)="ontaskChange($event)"
+            [(value)]="singleSelect" [multiple]="false" ></ngx-select-dropdown>
+                      </div>  
+                      <div class="modal-footer" >
+                        <div class="pull-right">
+                          <button (click)="modalRef.hide()" class="btn btn-primary">OK</button>
+                        </div>
+                      </div>
+                    </ng-template>
+
+                    <div *ngIf="parenTtask.touched && parenTtask.invalid">
+                      <span class="error" *ngIf="parenTtask.errors?.required">parenTtask is required</span>
+                    </div>
+              </div>
+            </div>
+          </div>
+          <div class="form-group" [class.has-error]="startDate.touched && startDate.invalid  && endDate.touched && endDate.invalid">
+            <div class="row">
+              <div class="col-sm-3">
+                <label for="txtStartdate ">Start Date:</label>
+
+              </div>
+              <div class="col-sm-8">
+                <input id="Start_Date" [disabled]="chkEnable.checked" class="form-control" name="Start_Date" type="date" [ngModel]="taskData.Start_Date | date:'yyyy-MM-dd'"
+                  required #startDate="ngModel">
+              </div>
+            </div>
+
+          </div>
+          <div class="form-group" [class.has-error]="startDate.touched && startDate.invalid  && endDate.touched && endDate.invalid">
+
+            <div class="row">
+              <div class="col-sm-3">
+                <label for="txtenddate">End Date:</label>
+
+              </div>
+              <div class="col-sm-8">
+
+                <input id="End_Date" [disabled]="chkEnable.checked" type="date" name="End_Date" [ngModel]="taskData.End_Date | date:'yyyy-MM-dd'"
+                  class="form-control" required #endDate="ngModel">
+                  <div *ngIf="startDate.touched && startDate.invalid && endDate.touched && endDate.invalid">
+                    <span class="error" *ngIf="startDate.errors?.required">StartDate and EndDate is required</span>
+                  </div>
+              </div>
+            </div>
+
+          </div>
+          <div class="form-group" [class.has-error]="user.touched && user.invalid">
+            <div class="row ">
+              <div class="col-sm-3 ">
+                <label for="txtUser ">User:</label>
+              </div>
+              <div class="col-sm-8 ">
+                <input id="txtUser" placeholder="Select User" disabled type="text" class="form-control" name="user" [(ngModel)]="username"
+                  required #user="ngModel">
+                  <button type="button" style="width:85px;" [disabled]="chkEnable.checked" class="btn btn-info" (click)="openModal(template)">Search</button>
+                  <ng-template #template>
+                    <div class="modal-header">
+                      <h4 class="modal-title pull-left">User Names</h4>
+                      <button type="button" class="close pull-right" name="button" aria-label="Close" (click)="modalRef.hide()">      
+                        <span aria-hidden="true">&times;</span></button>
+                    </div>
+                    <div class="modal-body">
+                      <select ng-model="selectusers" class="form-control" ng-app [(ngModel)]="user_ID" (change)="onUserChange($event)" name="selectusers">
+                      <option value="" selected disabled hidden>Choose here</option>
+                     <option *ngFor = "let user of users" value={{user.User_ID}} >{{user.FirstName}}  {{user.LastName}} </option>
+                     </select>
+                   
+                    </div> <div class="modal-footer">
+                        <div class="pull-right">
+                          <button class="btn btn-primary" (click)="modalRef.hide()">OK</button>
+                        </div>
+                      </div>
+                  </ng-template>
+                  <div *ngIf="user.touched && user.invalid">
+                    <span class="error" *ngIf="user.errors?.required">User is required</span>
+                  </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+        <div class="panel-footer">
+          <div class="pull-right">
+            <button class="btn btn-md btn-primary" style="width:85px;" [disabled]="taskForm.invalid">{{ SubmitBtnName}}</button>            &nbsp;
+            <button type="reset" style="width:85px;" class="btn btn-success">Reset</button>
+          </div>
+          <div class="clearfix"></div>
+        </div>
+      </div>
+    </div>
+  </form>
+</div>

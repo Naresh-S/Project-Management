@@ -1,0 +1,18 @@
+.form-control{
+    width: 350px;
+    display: inline;
+    margin-right: 5px;
+}
+.row{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.btn btn-primary
+{
+padding-right: 10px;
+}
+.error {
+    color: red;    
+    font-size: 12px;
+    font-style: italic;
+}

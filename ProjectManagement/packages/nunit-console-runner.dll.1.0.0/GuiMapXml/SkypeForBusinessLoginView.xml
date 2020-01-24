@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UIElement AutomationId="AID_SkypeLoginView" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="PresenceLoginView">
+  <UIElement AutomationId="AID_SkypeLoginViewSkypeImg" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+  <UIElement AutomationId="AID_SkypeLoginViewLabelAddress" ControlType="ControlType.Text" IsEnabled="true" Name="Address:" ClassName="Text">
+    <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Address:" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_SkypeLoginViewTbAddress" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="TouchTextBox">
+    <UIElement AutomationId="AID_TouchTexBoxViewInputTextBox" ControlType="ControlType.Edit" IsEnabled="true" Name="" ClassName="TextBox">
+      <UIElement AutomationId="VerticalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+      <UIElement AutomationId="HorizontalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+    </UIElement>
+    <UIElement AutomationId="UserMessage" ControlType="ControlType.Text" IsEnabled="true" Name="" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_SkypeLoginViewLabelUserName" ControlType="ControlType.Text" IsEnabled="true" Name="Username:" ClassName="Text">
+    <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Username:" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_SkypeLoginViewTbUserName" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="TouchTextBox">
+    <UIElement AutomationId="AID_TouchTexBoxViewInputTextBox" ControlType="ControlType.Edit" IsEnabled="true" Name="" ClassName="TextBox">
+      <UIElement AutomationId="VerticalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+      <UIElement AutomationId="HorizontalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+    </UIElement>
+    <UIElement AutomationId="UserMessage" ControlType="ControlType.Text" IsEnabled="true" Name="" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_SkypeLoginViewLabelPwd" ControlType="ControlType.Text" IsEnabled="true" Name="Password:" ClassName="Text">
+    <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Password:" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_SkypeLoginViewTbPassword" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="TouchPasswordBox">
+    <UIElement AutomationId="AID_TouchPasswordBoxViewPasswordTextBox" ControlType="ControlType.Edit" IsEnabled="true" Name="" ClassName="TextBox">
+      <UIElement AutomationId="VerticalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+      <UIElement AutomationId="HorizontalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+    </UIElement>
+  </UIElement>
+  <UIElement AutomationId="AID_SkypeLoginViewBtnLogin" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button">
+    <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Sign In" ClassName="TextBlock" />
+  </UIElement>
+  <UIElement AutomationId="AID_SkypeLoginViewLoginStatusMsg" ControlType="ControlType.Text" IsEnabled="true" Name="" ClassName="Text" />
+  <UIElement AutomationId="AID_SkypeLoginViewProgressBar" ControlType="ControlType.ProgressBar" IsEnabled="true" Name="" ClassName="ProgressBar" />
+</UIElement>

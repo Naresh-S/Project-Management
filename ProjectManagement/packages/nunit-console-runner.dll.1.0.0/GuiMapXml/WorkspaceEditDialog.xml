@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UIElement AutomationId="AID_WorkspaceFormViewRoot" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl">
+  <UIElement AutomationId="" ControlType="ControlType.Tab" IsEnabled="true" Name="" ClassName="TabControl">
+    <UIElement AutomationId="AID_WorkspaceGrid" ControlType="ControlType.TabItem" IsEnabled="true" Name="Edit Workspace" ClassName="TabItem">
+      <UIElement AutomationId="EditHeader" ControlType="ControlType.Text" IsEnabled="true" Name="Edit Workspace" ClassName="TextBlock" />
+      <UIElement AutomationId="AID_WorkspaceFormViewNameLabel" ControlType="ControlType.Text" IsEnabled="true" Name="Name:" ClassName="Text">
+        <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Name:" ClassName="TextBlock" />
+      </UIElement>
+      <UIElement AutomationId="AID_WorkspaceFormViewNameText" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="TouchTextBox">
+        <UIElement AutomationId="AID_TouchTexBoxViewInputTextBox" ControlType="ControlType.Edit" IsEnabled="true" Name="" ClassName="TextBox">
+          <UIElement AutomationId="VerticalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+          <UIElement AutomationId="HorizontalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+        </UIElement>
+        <UIElement AutomationId="UserMessage" ControlType="ControlType.Text" IsEnabled="true" Name="" ClassName="TextBlock" />
+      </UIElement>
+      <UIElement AutomationId="AID_WorkspaceFormViewwsImage" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+      <UIElement AutomationId="AID_WorkspaceFormViewSortOrderLabel" ControlType="ControlType.Text" IsEnabled="true" Name="Sort Order:" ClassName="Text">
+        <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Sort Order:" ClassName="TextBlock" />
+      </UIElement>
+      <UIElement AutomationId="AID_WorkspaceFormViewibDecreaseSort" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="ImageButton">
+        <UIElement AutomationId="" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+        <UIElement AutomationId="AID_ImageButtonViewImage" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+      </UIElement>
+      <UIElement AutomationId="AID_WorkspaceFormViewtbSort" ControlType="ControlType.Edit" IsEnabled="true" Name="" ClassName="TextBox">
+        <UIElement AutomationId="VerticalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+        <UIElement AutomationId="HorizontalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+      </UIElement>
+      <UIElement AutomationId="AID_WorkspaceFormViewibIncreaseSort" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="ImageButton">
+        <UIElement AutomationId="" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+        <UIElement AutomationId="AID_ImageButtonViewImage" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+      </UIElement>
+      <UIElement AutomationId="AID_WorkspaceFormViewlbBackground" ControlType="ControlType.Text" IsEnabled="true" Name="Background:" ClassName="Text">
+        <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Background:" ClassName="TextBlock" />
+      </UIElement>
+      <UIElement AutomationId="AID_WorkspaceFormViewtcbBackground" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="TouchComboBox">
+        <UIElement AutomationId="AID_TouchComboBoxViewValueTextBox" ControlType="ControlType.Edit" IsEnabled="true" Name="" ClassName="TextBox">
+          <UIElement AutomationId="VerticalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+          <UIElement AutomationId="HorizontalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+        </UIElement>
+        <UIElement AutomationId="AID_TouchComboBoxViewImage" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+        <UIElement AutomationId="AID_TouchComboBoxViewToggleButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+      </UIElement>
+      <UIElement AutomationId="AID_WorkspaceFormViewlbSnapGrid" ControlType="ControlType.Text" IsEnabled="true" Name="Snap Grid:" ClassName="Text">
+        <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Snap Grid:" ClassName="TextBlock" />
+      </UIElement>
+      <UIElement AutomationId="AID_WorkspaceFormViewtcbSnapGrid" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="TouchComboBox">
+        <UIElement AutomationId="AID_TouchComboBoxViewValueTextBox" ControlType="ControlType.Edit" IsEnabled="true" Name="" ClassName="TextBox">
+          <UIElement AutomationId="VerticalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+          <UIElement AutomationId="HorizontalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+        </UIElement>
+        <UIElement AutomationId="AID_TouchComboBoxViewImage" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+        <UIElement AutomationId="AID_TouchComboBoxViewToggleButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+      </UIElement>
+      <UIElement AutomationId="AID_WorkspaceFormViewlbMode" ControlType="ControlType.Text" IsEnabled="true" Name="Mode:" ClassName="Text">
+        <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Mode:" ClassName="TextBlock" />
+      </UIElement>
+      <UIElement AutomationId="AID_WorkspaceFormViewtcbMode" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="TouchComboBox">
+        <UIElement AutomationId="AID_TouchComboBoxViewValueTextBox" ControlType="ControlType.Edit" IsEnabled="true" Name="" ClassName="TextBox">
+          <UIElement AutomationId="VerticalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+          <UIElement AutomationId="HorizontalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+        </UIElement>
+        <UIElement AutomationId="AID_TouchComboBoxViewImage" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+        <UIElement AutomationId="AID_TouchComboBoxViewToggleButton" ControlType="ControlType.Button" IsEnabled="true" Name="" ClassName="Button" />
+      </UIElement>
+      <UIElement AutomationId="AID_WorkspaceFormViewlbReadOnly" ControlType="ControlType.Text" IsEnabled="true" Name="Read-only:" ClassName="Text">
+        <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Read-only:" ClassName="TextBlock" />
+      </UIElement>
+      <UIElement AutomationId="AID_WorkspaceFormViewswitchReadOnly" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="Switch">
+        <UIElement AutomationId="AID_SwitchViewBackgroundOnBtn" ControlType="ControlType.Custom" IsEnabled="false" Name="" ClassName="TextButton">
+          <UIElement AutomationId="" ControlType="ControlType.Custom" IsEnabled="false" Name="" ClassName="AnimatableControl" />
+          <UIElement AutomationId="AID_TextButtonViewText" ControlType="ControlType.Text" IsEnabled="false" Name="" ClassName="TextBlock" />
+        </UIElement>
+        <UIElement AutomationId="AID_SwitchViewBackgroundOffBtn" ControlType="ControlType.Custom" IsEnabled="false" Name="" ClassName="TextButton">
+          <UIElement AutomationId="" ControlType="ControlType.Custom" IsEnabled="false" Name="" ClassName="AnimatableControl" />
+          <UIElement AutomationId="AID_TextButtonViewText" ControlType="ControlType.Text" IsEnabled="false" Name="" ClassName="TextBlock" />
+        </UIElement>
+        <UIElement AutomationId="AID_SwitchViewSwitchOffBtn" ControlType="ControlType.Custom" IsEnabled="false" Name="" ClassName="TextButton">
+          <UIElement AutomationId="" ControlType="ControlType.Custom" IsEnabled="false" Name="" ClassName="AnimatableControl" />
+          <UIElement AutomationId="AID_TextButtonViewText" ControlType="ControlType.Text" IsEnabled="false" Name="" ClassName="TextBlock" />
+        </UIElement>
+        <UIElement AutomationId="AID_SwitchViewSwithOnBtn" ControlType="ControlType.Custom" IsEnabled="false" Name="" ClassName="TextButton">
+          <UIElement AutomationId="" ControlType="ControlType.Custom" IsEnabled="false" Name="" ClassName="AnimatableControl" />
+          <UIElement AutomationId="AID_TextButtonViewText" ControlType="ControlType.Text" IsEnabled="false" Name="" ClassName="TextBlock" />
+        </UIElement>
+        <UIElement AutomationId="AID_SwitchViewSwithOnText" ControlType="ControlType.Text" IsEnabled="false" Name="On" ClassName="TextBlock" />
+        <UIElement AutomationId="AID_SwitchViewSwitchOffText" ControlType="ControlType.Text" IsEnabled="false" Name="Off" ClassName="TextBlock" />
+        <UIElement AutomationId="AID_SwitchViewSwitchBtn" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="TextButton">
+          <UIElement AutomationId="" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+          <UIElement AutomationId="AID_TextButtonViewText" ControlType="ControlType.Text" IsEnabled="true" Name="" ClassName="TextBlock" />
+        </UIElement>
+      </UIElement>
+      <UIElement AutomationId="AID_WorkspaceFormViewbtnSave" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="TextButton">
+        <UIElement AutomationId="" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+        <UIElement AutomationId="AID_TextButtonViewText" ControlType="ControlType.Text" IsEnabled="true" Name="Save" ClassName="TextBlock" />
+      </UIElement>
+      <UIElement AutomationId="AID_WorkspaceFormViewbtnCancel" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="TextButton">
+        <UIElement AutomationId="" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+        <UIElement AutomationId="AID_TextButtonViewText" ControlType="ControlType.Text" IsEnabled="true" Name="Cancel" ClassName="TextBlock" />
+      </UIElement>
+      <UIElement AutomationId="AID_WorkspaceFormViewbtnDelete" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="ImageButton" />
+    </UIElement>
+    <UIElement AutomationId="DuplicateTab" ControlType="ControlType.TabItem" IsEnabled="true" Name="Duplicate Workspace" ClassName="TabItem">
+      <UIElement AutomationId="CopyHeader" ControlType="ControlType.Text" IsEnabled="true" Name="Duplicate Workspace" ClassName="TextBlock" />
+      <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Name:" ClassName="Text">
+        <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Name:" ClassName="TextBlock" />
+      </UIElement>
+      <UIElement AutomationId="AID_TouchTexBoxView" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="TouchTextBox">
+        <UIElement AutomationId="AID_TouchTexBoxViewInputTextBox" ControlType="ControlType.Edit" IsEnabled="true" Name="" ClassName="TextBox">
+          <UIElement AutomationId="VerticalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+          <UIElement AutomationId="HorizontalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+        </UIElement>
+        <UIElement AutomationId="UserMessage" ControlType="ControlType.Text" IsEnabled="true" Name="" ClassName="TextBlock" />
+      </UIElement>
+      <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Sort Order:" ClassName="Text">
+        <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Sort Order:" ClassName="TextBlock" />
+      </UIElement>
+      <UIElement AutomationId="AID_WorkspaceFormViewibDecreaseDuplicateSort" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="ImageButton">
+        <UIElement AutomationId="" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+        <UIElement AutomationId="AID_ImageButtonViewImage" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+      </UIElement>
+      <UIElement AutomationId="AID_WorkspaceFormViewtbDuplicateSort" ControlType="ControlType.Edit" IsEnabled="true" Name="" ClassName="TextBox">
+        <UIElement AutomationId="VerticalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+        <UIElement AutomationId="HorizontalScrollBar" ControlType="ControlType.ScrollBar" IsEnabled="false" Name="" ClassName="ScrollBar" />
+      </UIElement>
+      <UIElement AutomationId="AID_WorkspaceFormViewibIncreaseDuplicateSort" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="ImageButton">
+        <UIElement AutomationId="" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+        <UIElement AutomationId="AID_ImageButtonViewImage" ControlType="ControlType.Image" IsEnabled="true" Name="" ClassName="Image" />
+      </UIElement>
+      <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Read-only:" ClassName="Text">
+        <UIElement AutomationId="" ControlType="ControlType.Text" IsEnabled="true" Name="Read-only:" ClassName="TextBlock" />
+      </UIElement>
+      <UIElement AutomationId="AID_WorkspaceFormViewswitchReadOnly" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="Switch">
+        <UIElement AutomationId="AID_SwitchViewBackgroundOnBtn" ControlType="ControlType.Custom" IsEnabled="false" Name="" ClassName="TextButton" />
+        <UIElement AutomationId="AID_SwitchViewBackgroundOffBtn" ControlType="ControlType.Custom" IsEnabled="false" Name="" ClassName="TextButton">
+          <UIElement AutomationId="" ControlType="ControlType.Custom" IsEnabled="false" Name="" ClassName="AnimatableControl" />
+          <UIElement AutomationId="AID_TextButtonViewText" ControlType="ControlType.Text" IsEnabled="false" Name="" ClassName="TextBlock" />
+        </UIElement>
+        <UIElement AutomationId="AID_SwitchViewSwitchOffBtn" ControlType="ControlType.Custom" IsEnabled="false" Name="" ClassName="TextButton">
+          <UIElement AutomationId="" ControlType="ControlType.Custom" IsEnabled="false" Name="" ClassName="AnimatableControl" />
+          <UIElement AutomationId="AID_TextButtonViewText" ControlType="ControlType.Text" IsEnabled="false" Name="" ClassName="TextBlock" />
+        </UIElement>
+        <UIElement AutomationId="AID_SwitchViewSwithOnBtn" ControlType="ControlType.Custom" IsEnabled="false" Name="" ClassName="TextButton" />
+        <UIElement AutomationId="AID_SwitchViewSwithOnText" ControlType="ControlType.Text" IsEnabled="false" Name="On" ClassName="TextBlock" />
+        <UIElement AutomationId="AID_SwitchViewSwitchOffText" ControlType="ControlType.Text" IsEnabled="false" Name="Off" ClassName="TextBlock" />
+        <UIElement AutomationId="AID_SwitchViewSwitchBtn" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="TextButton">
+          <UIElement AutomationId="" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+          <UIElement AutomationId="AID_TextButtonViewText" ControlType="ControlType.Text" IsEnabled="true" Name="" ClassName="TextBlock" />
+        </UIElement>
+      </UIElement>
+      <UIElement AutomationId="AID_WorkspaceFormViewbtnDuplicate" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="TextButton">
+        <UIElement AutomationId="" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+        <UIElement AutomationId="AID_TextButtonViewText" ControlType="ControlType.Text" IsEnabled="true" Name="Duplicate" ClassName="TextBlock" />
+      </UIElement>
+      <UIElement AutomationId="AID_WorkspaceFormViewbtnCancel" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="TextButton">
+        <UIElement AutomationId="" ControlType="ControlType.Custom" IsEnabled="true" Name="" ClassName="AnimatableControl" />
+        <UIElement AutomationId="AID_TextButtonViewText" ControlType="ControlType.Text" IsEnabled="true" Name="Cancel" ClassName="TextBlock" />
+      </UIElement>
+    </UIElement>
+  </UIElement>
+</UIElement>
